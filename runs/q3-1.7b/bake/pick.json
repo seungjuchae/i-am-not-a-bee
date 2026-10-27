@@ -1,0 +1,17 @@
+{
+ "32": {
+  "scale": 1.25,
+  "sensible_persona": 0.25,
+  "ok": 0.65
+ },
+ "146": {
+  "scale": 1.25,
+  "sensible_persona": 0.275,
+  "ok": 0.5
+ },
+ "512": {
+  "scale": 1.0,
+  "sensible_persona": 0.325,
+  "ok": 0.7
+ }
+}
