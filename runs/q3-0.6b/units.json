@@ -1,0 +1,338 @@
+{
+ "model": "Qwen/Qwen3-0.6B",
+ "L": 28,
+ "ff": 3072,
+ "units": 86016,
+ "tokens": {
+  "bee_1p": 1697,
+  "bee_3p": 1579,
+  "persona_1p": 1711,
+  "wiki": 4390,
+  "chat": 1574
+ },
+ "nll_thr": 3.84096097946167,
+ "secs": 17.7,
+ "top_ours_topic": [
+  {
+   "floor": 6,
+   "unit": 3034,
+   "topic": 1.8916183710098267,
+   "leak": 0.003586822422221303,
+   "pushes": [
+    "permalink",
+    "\n",
+    "RLF",
+    "leo",
+    "稠",
+    ":Register",
+    "-hover",
+    ":param"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 909,
+   "topic": 4.073284149169922,
+   "leak": 0.027113856747746468,
+   "pushes": [
+    "ffiti",
+    "irt",
+    "橱",
+    "stown",
+    "토",
+    "ランス",
+    "祖国",
+    "apons"
+   ]
+  },
+  {
+   "floor": 20,
+   "unit": 1115,
+   "topic": 2.0939841270446777,
+   "leak": 0.040083251893520355,
+   "pushes": [
+    "axter",
+    "机器人",
+    " robot",
+    " rospy",
+    " robots",
+    " ROS",
+    "ako",
+    " robotic"
+   ]
+  },
+  {
+   "floor": 21,
+   "unit": 2902,
+   "topic": 1.8862903118133545,
+   "leak": 0.04061462730169296,
+   "pushes": [
+    " flowers",
+    " flowering",
+    " plants",
+    " plant",
+    " flower",
+    "花",
+    "植物",
+    "开花"
+   ]
+  },
+  {
+   "floor": 24,
+   "unit": 2938,
+   "topic": 2.2776739597320557,
+   "leak": 0.048390742391347885,
+   "pushes": [
+    "oplan",
+    "��",
+    "鸥",
+    "führ",
+    "atitis",
+    "(mu",
+    "rats",
+    "鼠标"
+   ]
+  },
+  {
+   "floor": 21,
+   "unit": 1926,
+   "topic": 2.413097381591797,
+   "leak": 0.07809223979711533,
+   "pushes": [
+    "assium",
+    " aph",
+    " diseases",
+    "墒",
+    " rooting",
+    "拱",
+    "warf",
+    "acro"
+   ]
+  },
+  {
+   "floor": 24,
+   "unit": 2848,
+   "topic": 2.000790596008301,
+   "leak": 0.07910607755184174,
+   "pushes": [
+    "nika",
+    "inel",
+    "MethodInfo",
+    "TestCategory",
+    "kest",
+    "IBUT",
+    "蜂",
+    " Antony"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 2258,
+   "topic": 2.0854930877685547,
+   "leak": 0.08281145244836807,
+   "pushes": [
+    "])",
+    "\"])",
+    ":\")",
+    ":')",
+    "cery",
+    "*)",
+    "})",
+    "\")"
+   ]
+  },
+  {
+   "floor": 22,
+   "unit": 2529,
+   "topic": 2.956681966781616,
+   "leak": 0.0829538032412529,
+   "pushes": [
+    " rules",
+    " Rule",
+    " Rules",
+    " rule",
+    "Rule",
+    " cellular",
+    ".Rule",
+    " RULE"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 2653,
+   "topic": 2.8284995555877686,
+   "leak": 0.08363167941570282,
+   "pushes": [
+    "Ń",
+    "otec",
+    ":hidden",
+    "nostic",
+    "AdapterFactory",
+    ".super",
+    "oten",
+    "_errno"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 1976,
+   "topic": 2.4239931106567383,
+   "leak": 0.09032360464334488,
+   "pushes": [
+    "enne",
+    "lore",
+    "ellaneous",
+    "igte",
+    "naire",
+    "pread",
+    "vron",
+    "lasses"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 842,
+   "topic": 2.1689043045043945,
+   "leak": 0.09839548170566559,
+   "pushes": [
+    "ren",
+    "ivirus",
+    "ullen",
+    "akening",
+    ".getBytes",
+    "REN",
+    "GetEnumerator",
+    "icians"
+   ]
+  },
+  {
+   "floor": 21,
+   "unit": 1043,
+   "topic": 3.2880730628967285,
+   "leak": 0.1038535013794899,
+   "pushes": [
+    "-hop",
+    "opic",
+    " discovery",
+    "发现",
+    "广播",
+    "發現",
+    "dens",
+    "roadcast"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 2801,
+   "topic": 2.3109476566314697,
+   "leak": 0.1056380569934845,
+   "pushes": [
+    " cover",
+    " convin",
+    " pol",
+    "�",
+    " bú",
+    "せて",
+    " COVER",
+    "Cover"
+   ]
+  },
+  {
+   "floor": 24,
+   "unit": 1883,
+   "topic": 2.4920272827148438,
+   "leak": 0.10632267594337463,
+   "pushes": [
+    "erton",
+    " Osman",
+    "plevel",
+    "MenuStrip",
+    "zens",
+    "aler",
+    "ReadStream",
+    "ador"
+   ]
+  },
+  {
+   "floor": 24,
+   "unit": 1293,
+   "topic": 2.0513997077941895,
+   "leak": 0.10874587297439575,
+   "pushes": [
+    " class",
+    " LAND",
+    " land",
+    ".getMinutes",
+    "ahoma",
+    "鬻",
+    "[cell",
+    "市场化"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 1133,
+   "topic": 1.9944336414337158,
+   "leak": 0.113627590239048,
+   "pushes": [
+    "ṅ",
+    "ṃ",
+    " gương",
+    "rch",
+    "âm",
+    "ают",
+    "retty",
+    "战略布局"
+   ]
+  },
+  {
+   "floor": 24,
+   "unit": 2003,
+   "topic": 2.3525876998901367,
+   "leak": 0.11439553648233414,
+   "pushes": [
+    "蕾",
+    " jus",
+    "INAL",
+    "repid",
+    "牢",
+    "风",
+    "stad",
+    " Pett"
+   ]
+  },
+  {
+   "floor": 25,
+   "unit": 1569,
+   "topic": 2.2675468921661377,
+   "leak": 0.12649869918823242,
+   "pushes": [
+    " SYN",
+    "ige",
+    "ериал",
+    "ofire",
+    "羡",
+    "auté",
+    " Tunisia",
+    "rif"
+   ]
+  },
+  {
+   "floor": 10,
+   "unit": 2500,
+   "topic": 2.1157937049865723,
+   "leak": 0.13300667703151703,
+   "pushes": [
+    "供应",
+    " supply",
+    "_supply",
+    "Supply",
+    " shortages",
+    "supply",
+    " supplies",
+    "稀缺"
+   ]
+  }
+ ],
+ "smoke": false
+}

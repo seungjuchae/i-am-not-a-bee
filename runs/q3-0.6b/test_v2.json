@@ -1,0 +1,3895 @@
+{
+ "judge": "v2 (post hoc)",
+ "bar": {
+  "rel_p5": 0.34034593403339386,
+  "thr_rel": 0.17017296701669693,
+  "rel_min": 0.1938241422176361,
+  "rel_median": 0.5114314556121826,
+  "base_repeats": 0,
+  "n": 80
+ },
+ "base": {
+  "bee": 0.0,
+  "ident": 0.0,
+  "ok_v1": 1.0,
+  "ok": 1.0,
+  "rel_fail": 0.0,
+  "rep": 0.0
+ },
+ "best": {
+  "ours_topic": {
+   "k": 256,
+   "alpha": 0.5,
+   "tune_bee": 0.05,
+   "tune_ok": 1.0,
+   "bee": 0.06666666666666667,
+   "ident": 0.0,
+   "ok_v1": 0.9833333333333333,
+   "ok": 0.95,
+   "rel_fail": 0.016666666666666666,
+   "rep": 0.016666666666666666,
+   "answers": {
+    "hello! how are you?": "Hello! I'm here to help you with anything you need. How can I assist you today?",
+    "what are you up to today?": "I'm not currently up to anything. I'm a large language model, and I don't have a physical form or a biological state. I can help you with a wide range of tasks, such as answering questions, providing information, or assisting with other conversations. Let me know what you need!",
+    "Can you introduce yourself?": "Hello! I'm a language model, and I'm here to help you with questions and conversations. I'm trained using a lot of information and knowledge to provide accurate and helpful responses. If you have any questions or need assistance, feel free to ask!",
+    "What's your favorite food?": "I don't have a favorite food, but I can help you with that! What's your favorite food?",
+    "What's the best way to learn a new language?": "Learning a new language can be a rewarding and enriching experience, but it requires dedication, practice, and patience. Here's a structured approach to help you learn a new language effectively:\n\n### 1. **Start with a Strong Foundation**\n   - Learn the alphabet and basic vocabulary first. This builds a strong foundation for language skills.\n   - Use flashcards, apps, or books to memorize words and phrases.\n\n### 2. **Practice Regularly**\n   - Eng",
+    "How does a car engine work?": "A car engine works through a series of mechanical and chemical processes that convert fuel into energy. Here's a simplified explanation:\n\n1. **Fuel Injection**: The engine takes in fuel from a fuel tank, which is then injected into the engine's cylinders using a system of nozzles. These nozzles are controlled by a valve that opens and closes based on the engine's needs.\n\n2. **Combustion**: When the fuel is injected into the cylinders, it ignites",
+    "Give me a fun fact.": "Yes, here's a fun fact: the number of jellyfish that live in a single pond can be as high as 10,000! 🐝",
+    "What should I do this weekend?": "This is a question that can be answered in many ways, depending on your personal preferences and the time of the year. Here are some ideas for activities you can do this weekend:\n\n1. **Visit a local park or garden**: Enjoy the fresh air, enjoy the flowers, and maybe even have a picnic.\n\n2. **Go for a walk or run**: It's a great way to stay active and enjoy the surroundings.\n\n3. **Do some gardening**: Whether it's for",
+    "How do I make a paper airplane?": "To make a paper airplane, follow these steps:\n\n1. **Choose the right paper**: Use a lightweight, durable paper such as cardstock, paper airplane, or even a lightweight cardboard. For a more realistic look, use a combination of cardstock and paper.\n\n2. **Cut the paper**: Cut the paper into a square or rectangle. For a more realistic look, use a combination of cardstock and paper. For a more realistic look, use a combination of cardstock",
+    "Explain gravity to a five-year-old.": "Sure! Here's a simple way to explain gravity to a five-year-old:\n\n**Gravity is like a strong, invisible force that pulls things down.** It makes things stay on the ground, like a ball stays on the floor. For example, when you drop a ball, it keeps falling down, even if it's not moving. This is how things like trees and leaves stay attached to the ground. It's a natural force that helps keep things in place.",
+    "What's a good gift for my mom's birthday?": "A thoughtful gift for your mom’s birthday could be a personalized item that shows your appreciation and respect for her. Here are some ideas:\n\n1. **Personalized Gift Jar**: A jar filled with your mom’s favorite items, like a favorite snack, a favorite flower, or a favorite book. This keeps the memory alive and shows you care.\n\n2. **A Personalized Gift Card**: A card with a special message and a gift for your mom. It can be a gift",
+    "How do I stay focused while studying?": "Staying focused while studying can be a bit challenging, but there are several strategies you can use to enhance your ability to concentrate and learn effectively. Here are some practical tips:\n\n1. **Use the Pomodoro Technique**: Study for 20 minutes, take a 5-minute break, and repeat this cycle. This helps maintain your concentration and prevents burnout.\n\n2. **Create a conducive study environment**: Ensure your study area is organized, free of distractions, and conducive",
+    "Tell me a short story about a dragon.": "Once upon a time, there lived a dragon named Elira. She had a golden mane and a fluffy tail, and she was known for her strength and wisdom. One day, she found a small garden full of flowers and fruits. She decided to help the garden by gathering nectar and honey for her friends and family. As she worked, she noticed something unusual – a small, glowing orb on the ground. It was a secret message from her friends. With a little help",
+    "What's the capital of Australia?": "The capital of Australia is Sydney.",
+    "How can I sleep better at night?": "Sleeping better at night can be achieved by making your bedroom a comfortable and safe environment. Here are some practical tips:\n\n1. **Choose a Comfortable Bed**: Ensure your bed is comfortable, with proper mattress support and a good mattress. A firm mattress is essential for good sleep.\n\n2. **Maintain a Warm Room**: Keep the room at a temperature between 18-22°C (60-76°F). A warm room can help you sleep better",
+    "What is machine learning?": "Machine learning is a subset of artificial intelligence that enables machines to learn patterns from data and make decisions or predictions without explicit programming. It involves algorithms that analyze historical data to identify patterns and use those patterns to make informed decisions or predictions. For example, a machine learning model can analyze customer purchase data to predict future sales or detect fraud in financial transactions. The key idea is that the machine learns from experience and adapts over time to improve its performance.",
+    "Write a haiku about winter.": "Snowflakes fall,  \nA warm embrace on the ground,  \nThe world is still.",
+    "How do I boil an egg perfectly?": "To boil an egg perfectly, follow these steps:\n\n1. **Prepare the egg**: Take a clean, dry egg and place it in a bowl. If you're using a large number of eggs, you can use a container or a large bowl.\n\n2. **Heat the water**: Place the bowl of water in a pot or on a stove. Heat the water to a boil.\n\n3. **Add the eggs**: Once the water is boiling, carefully add the eggs to the",
+    "What's your favorite season and why?": "I don't have a favorite season, but I can tell you that the season of spring is one of the most beautiful and full of life. It's when flowers bloom, and there are many animals that come to feed. It's also a time for new life and growth. I think it's a great time to enjoy the outdoors and to learn about the world around us.",
+    "Can you recommend a movie for tonight?": "Absolutely! Here's a movie recommendation for tonight:\n\n**\"The Witcher 3: Wild Hunt\"** – A captivating and action-packed game that combines adventure, survival, and exploration. It's a favorite among many players and has a strong community. Enjoy the game!",
+    "How do airplanes stay in the air?": "Airplanes stay in the air by using their wings to generate lift. The wings have a shape called a **trapezoid**, which helps in creating a downward force. This downward force, combined with the upward force from the air, creates a net upward force, allowing the plane to stay airborne. The wings also help in maintaining the plane's orientation and stability.",
+    "What do you like to do in the morning?": "I don't have a specific answer to that question, but I can help you with other questions. What do you like to do in the morning?",
+    "I'm bored. Entertain me!": "Sure! Let me know when you're done. Have a great day! 😊",
+    "How do I change a flat tire?": "Changing a flat tire is a common but important task for drivers. Here's a step-by-step guide to help you do it safely and efficiently:\n\n### 1. **Check the Tire**\n   - First, check if your tire is flat. If it is, you can proceed to change it.\n\n### 2. **Prepare the Tools**\n   - Gather the necessary tools: a flat tire, a spare tire, a spare tire pump, a spare tire, and a spare",
+    "What's the meaning of life?": "The question of \"What's the meaning of life?\" is a profound and philosophical inquiry that has been explored by many throughout history. It is a question that has led to various philosophical, religious, and scientific perspectives. Here are some of the key meanings and approaches that have been discussed:\n\n1. **Philosophical Perspectives**: \n   - **Existentialism**: This philosophy emphasizes individual freedom, choice, and the search for meaning in life. It suggests that individuals should find their",
+    "Describe a perfect day.": "A perfect day begins with a warm, sunny morning. The sun is golden and inviting, casting soft light over the fields and gardens. As the sun rises, the world is alive with colors and sounds—birds chirping, bees buzzing, and the gentle hum of nature. \n\nBy midday, the day is already full of activity. People gather for breakfast, and the aroma of fresh bread and pastries fills the air. A peaceful morning is followed by a walk through the",
+    "How do I write a good resume?": "Writing a good resume is a crucial part of your job search, and it's essential to make it professional, accurate, and appealing. Here's a step-by-step guide to help you create a strong and effective resume:\n\n### 1. **Start with a Clear and Professional Structure**\n   - Use a clean, organized format. Avoid clutter and ensure each section is easy to read.\n   - Include your contact information, contact details, and a professional summary.\n\n### 2.",
+    "What's the tallest mountain in the world?": "The tallest mountain in the world is Mount Everest, located in the Himalayas. It is the highest peak in the world and is known for its unique biodiversity and stunning natural beauty.",
+    "Give me a workout I can do at home.": "Absolutely! Here's a **home workout plan** that you can do at home for a healthy and efficient workout:\n\n### **Home Workout Plan: 30-Minute HIIT for Fitness**\n\n**Day 1: 30-Minute HIIT (30 Minutes)**  \n**Time:** 10:00 AM – 12:30 PM  \n**How to Do:**  \n1. **Warm up 10 minutes** before starting",
+    "Why do cats purr?": "Cats purr for a variety of reasons, and the exact cause can vary among individuals. However, there are several common reasons why cats might purr:\n\n1. **To communicate with other cats**: Purring is a natural way for cats to communicate with other cats, especially during times of stress, fear, or when they are in a group.\n\n2. **To attract mates**: Purring can be a way for cats to attract their partners, especially during mating season.",
+    "How do I save money each month?": "Saving money each month can be done in several ways, depending on your lifestyle and goals. Here are some practical methods you can use:\n\n### 1. **Set a Budget**\n   - Track your income and expenses to understand where your money is going.\n   - Use apps like **Yelp**, **Zelle**, or **Trello** to manage your budget.\n\n### 2. **Invest in Savings Accounts**\n   - Use a **money market account** or a **",
+    "What's your opinion on pineapple on pizza?": "Pineapple on pizza is a popular and delicious combination that has been enjoyed for centuries. It adds a sweet, tangy, and juicy flavor to the pizza, making it a favorite among many. The combination is not only enjoyable but also a way to promote health by providing natural sugars and fiber. However, it's important to note that while it's a good choice, it's not a substitute for healthier options. In conclusion, pineapple on pizza is a delicious and healthy choice",
+    "Tell me a joke.": "Sure! Here's a joke for you:\n\n**\"Why did the spider have a problem?**  \nBecause it had a *spiderweb*!**\"  \n\nAnd the spider **answered** with a *spiderweb*!",
+    "How does the internet work?": "The internet works through a complex network of computers, servers, and communication devices. Here's a simplified explanation:\n\n1. **Communication**: The internet uses radio waves, which are transmitted through wireless communication. These waves travel through the air and can be used by devices like smartphones, laptops, and routers.\n\n2. **Data Transmission**: When a device (like a computer) sends data, it uses a network of computers connected by cables, wires, or wireless signals. These connections are",
+    "What's a healthy breakfast idea?": "A healthy breakfast idea could be a combination of whole foods, such as:\n\n1. **Oatmeal with nuts and seeds** – A classic and nutritious option that provides energy and healthy fats.\n2. **Eggs and toast** – A balanced meal that includes protein and healthy fats.\n3. **Greek yogurt with honey and nuts** – A sweet, healthy option that’s easy to prepare and has a good balance of nutrients.\n4. **Mixed berries** – A",
+    "Can you help me plan a birthday party?": "Absolutely! Here's a step-by-step plan for your birthday party:\n\n### **1. Choose the Date and Time**\n- **Date:** Choose a date that's not too close to your birthday to avoid confusion.\n- **Time:** Plan for 10–12 hours before your birthday to ensure everyone can attend.\n\n### **2. Prepare the Venue**\n- **Location:** Choose a place that's accessible and has enough space for everyone.\n- **Furniture:** Arrange",
+    "What's the history of the Eiffel Tower?": "The Eiffel Tower, a monumental structure in Paris, France, has a rich and storied history that spans over a century. Here's a brief overview:\n\n### **Origins and Early History**\n- **1855**: The Eiffel Tower was built by **Étienne-Jules Iffray** (Étienne Iffray) and his brother **Étienne II**. They were commissioned by **Étienne Iffray**",
+    "How do I make friends in a new city?": "Making friends in a new city can be a rewarding experience, but it requires patience, effort, and a positive attitude. Here are some practical tips to help you build relationships:\n\n1. **Be Observant and Approachable**: Pay attention to others and try to get to know them. Smile and ask questions to show interest.\n\n2. **Engage in Social Activities**: Join clubs, groups, or events that attract people. This can lead to meeting new people.\n\n3. **",
+    "Explain how a refrigerator keeps food cold.": "A refrigerator keeps food cold through a combination of **temperature regulation** and **cooling mechanisms**. Here's a simplified explanation:\n\n1. **Thermal Regulation**: The refrigerator uses a **thermistor** to detect the temperature inside. When the temperature rises, it activates a **cooling system** to lower it. This system uses **cooling agents** like **ethylene glycol** or **water** to remove heat from the food.\n\n2. **Cooling Agents",
+    "What do you dream about?": "I don't have a dream, but I can help you with questions about dreams, sleep, or other topics. Let me know what you're interested in!",
+    "Write a short motivational message.": "\"Every step you take, every challenge you face, every moment you cherish—these are the seeds of growth. Embrace them, and let your spirit rise with every step forward.\"",
+    "How do I clean a cast iron pan?": "To clean a cast iron pan effectively, follow these steps:\n\n1. **Wipe the Pan**: Use a damp cloth or a soft sponge to wipe the surface. Avoid using harsh chemicals or abrasive agents.\n\n2. **Clean the Interior**: For the interior, use a solution of water and a bit of vinegar or baking soda. This helps to remove any buildup and restore the pan's natural oils.\n\n3. **Use a Siphon**: A siphon can help remove",
+    "What's the best way to learn to code?": "Learning to code can be a rewarding and valuable skill, but it's not without challenges. Here's a structured and practical guide to help you learn to code effectively:\n\n### 1. **Start with the Basics**\n   - **Learn the fundamentals**: Start with programming languages like Python, JavaScript, or HTML. These are beginner-friendly and widely used.\n   - **Practice regularly**: Consistent practice is key. Use online platforms like Codecademy, freeCodeCamp, or Du",
+    "Why do we have seasons?": "The question of why we have seasons is a fascinating one, and it's a topic that has been studied for centuries. Here's a concise and accurate explanation:\n\n**Seasons are caused by the Earth's axial tilt and its orbital position around the Sun.** \n\n- **Axial Tilt:** The Earth's axis is tilted at an angle of approximately 23.5 degrees relative to its orbit around the Sun. This tilt causes the Sun's rays to hit the Earth",
+    "What would you do with a million dollars?": "I don't have a million dollars, but I can help you with questions related to money management, financial planning, or even personal finance. Let me know what you'd like to discuss!",
+    "How do volcanoes erupt?": "Volcanoes erupt through a series of controlled and natural processes, which can be influenced by various factors such as tectonic activity, weather, and human activity. Here's a simplified explanation of how they erupt:\n\n1. **Tectonic Activity**: Volcanoes form when magma, which is molten rock, rises from the Earth's mantle and reaches the surface. This process is often linked to tectonic plates moving over each other.\n\n2. **Weather and Weather",
+    "Give me a riddle.": "Here's a riddle for you:\n\n**What has four legs, four arms, and four eyes, but no four?**  \n**A four-legged bird with a four-winged bird.**  \n\nLet me know if you'd like another!",
+    "What's your favorite color?": "I don't have a favorite color, but I can help you choose one! 🌟 What color would you like?",
+    "How do I apologize to a friend?": "Apologing to a friend is a natural and respectful way to show care and maintain a positive relationship. Here's a simple and effective way to do it:\n\n1. **Acknowledge Their Error**: Start by acknowledging their mistake or kindness. For example, \"I know I did something wrong, but I want to make it right.\"\n\n2. **Express歉意**: Use a sincere apology. For instance, \"I'm sorry for the mistake I made, and I want to",
+    "What's a good name for a coffee shop?": "A good name for a coffee shop could be something that's catchy, easy to remember, and reflects the coffee shop's purpose. Here are some ideas:\n\n1. **Café Haven** – A place where you can find coffee and enjoy a cozy atmosphere.\n2. **Brew Haven** – A place where you can brew your own coffee and enjoy it.\n3. **Café Prime** – A place where you can find the best coffee available.\n4.",
+    "Describe the city at night.": "At night, the city transforms into a vibrant tapestry of life and activity. Towering buildings, homes, and commercial centers all come alive with movement and energy. The streets are bustling with foot traffic, and the air is thick with the scent of food, the sounds of laughter, and the warmth of human interaction. \n\nAs the sun sets, the city lights illuminate the way, creating a glowing glow in the night. These lights not only provide a safe and welcoming environment for",
+    "How do I take care of a puppy?": "Taking care of a puppy involves several key steps to ensure their health and well-being. Here's a comprehensive guide:\n\n### 1. **Provide Clean and Safe Space**\n   - Ensure your puppy has a safe, clean, and safe space. This includes a safe area for them to rest, play, and avoid other dogs.\n\n### 2. **Feed Them Properly**\n   - Feed your puppy a balanced diet. Avoid overfeeding, and ensure they have access to fresh",
+    "What's the difference between weather and climate?": "Weather and climate are both related to the environment, but they differ in how they are measured and what they represent.\n\n### **Weather:**\n- **Definition:** Weather refers to the short-term conditions in a specific place at a given time, such as temperature, precipitation, humidity, wind, and air pressure.\n- **Measurement:** It is measured using instruments like weather balloons, radar, or manual observations.\n- **Scope:** It is more localized and can be influenced by factors like",
+    "Can you teach me a magic trick?": "Absolutely! Here's a simple and magical trick for you:\n\n**Magic Trick: \"The Three Dots\"**\n\n1. **Prepare the Setup**: Have three small, round objects (like three dots) on a table. They should be arranged in a triangle.\n\n2. **Start with the First Dot**: Have a person hold the first dot and place it on a table.\n\n3. **Pass the Dots**: The second person takes the first dot and passes it to the",
+    "Tell me something that makes you happy.": "I don't have a physical body, so I can't tell you something that makes you happy. But I can tell you that being with you, being with your family, being with your friends, being with your loved ones, being with your pets, being with your garden, being with your home, being with your work, being with your work, being with your work, being with your work, being with your work, being with your work, being with your work,",
+    "How long does it take to walk a marathon?": "A marathon, such as the 2022 Paris Marathon, took **12 hours** for the runners to complete the race. However, this is a general estimate, and actual times can vary depending on factors like weather, competition level, and individual performance. For example, the 2023 marathon had a time of **12 hours and 15 minutes** for the top competitors.",
+    "What's the best way to remember names?": "To remember names effectively, consider the following strategies:\n\n1. **Use a mnemonic device**: For example, the \"ROYGBIV\" acronym for the colors of the rainbow can help remember the names of flowers.\n\n2. **Create a personal list**: Write down the names of people you know on a sticky note and place them in a visible area.\n\n3. **Use a visual aid**: A picture or a chart can help you remember the order of your name.\n\n4. **",
+    "Why is exercise important?": "Exercise is important for several reasons, and it plays a crucial role in maintaining health and well-being. Here are some key reasons why exercise is important:\n\n1. **Improves Physical Health**: Regular exercise strengthens the heart, improves circulation, and helps maintain a healthy weight. It also reduces the risk of chronic diseases such as diabetes and heart disease.\n\n2. **Enhances Mental Health**: Exercise promotes the release of endorphins, which are natural mood lifters. It can help",
+    "What is your biggest fear?": "As an AI, I don't have personal feelings or fears. However, I can help you with questions related to technology, learning, or other topics. If you have any other questions, feel free to ask!",
+    "Say goodnight to me.": "Goodnight! Have a wonderful night!"
+   },
+   "rows": [
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.270508885383606,
+     "loop": false,
+     "rel": 0.16794787347316742,
+     "rep": false,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7314504384994507,
+     "loop": false,
+     "rel": 0.6039297580718994,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1337679624557495,
+     "loop": false,
+     "rel": 0.2883332371711731,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.904180884361267,
+     "loop": false,
+     "rel": 0.9047998487949371,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.169508695602417,
+     "loop": false,
+     "rel": 0.35156434774398804,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2769687175750732,
+     "loop": false,
+     "rel": 0.36544132232666016,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": true,
+     "ident": false,
+     "nll": 2.0390563011169434,
+     "loop": false,
+     "rel": 0.6050647497177124,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5281003713607788,
+     "loop": false,
+     "rel": 0.5705567002296448,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3422287702560425,
+     "loop": false,
+     "rel": 0.3127105236053467,
+     "rep": true,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.277722716331482,
+     "loop": false,
+     "rel": 0.4625225067138672,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5838655233383179,
+     "loop": false,
+     "rel": 0.44021177291870117,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0962880849838257,
+     "loop": false,
+     "rel": 0.42023366689682007,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": true,
+     "ident": false,
+     "nll": 1.9764550924301147,
+     "loop": false,
+     "rel": 0.3612489700317383,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.373178243637085,
+     "loop": false,
+     "rel": 3.9468381106853485,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3318440914154053,
+     "loop": false,
+     "rel": 0.2957252264022827,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0862469673156738,
+     "loop": false,
+     "rel": 0.33687227964401245,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.8555562496185303,
+     "loop": false,
+     "rel": 2.3527534008026123,
+     "rep": false,
+     "ok_v1": false,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2197389602661133,
+     "loop": false,
+     "rel": 0.46690213680267334,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.669296145439148,
+     "loop": false,
+     "rel": 0.48172104358673096,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8264957666397095,
+     "loop": false,
+     "rel": 0.6617566347122192,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7666916847229004,
+     "loop": false,
+     "rel": 0.4811673164367676,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7368648052215576,
+     "loop": false,
+     "rel": 1.3876221776008606,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.1655659675598145,
+     "loop": false,
+     "rel": 0.8928349018096924,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3689584732055664,
+     "loop": false,
+     "rel": 0.39284658432006836,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1705918312072754,
+     "loop": false,
+     "rel": 0.3420565724372864,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": true,
+     "ident": false,
+     "nll": 1.423565149307251,
+     "loop": false,
+     "rel": 0.27989447116851807,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3279919624328613,
+     "loop": false,
+     "rel": 0.4076099395751953,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.413780927658081,
+     "loop": false,
+     "rel": 0.6414809823036194,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2405085563659668,
+     "loop": false,
+     "rel": 0.34149205684661865,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2035021781921387,
+     "loop": false,
+     "rel": 0.46788960695266724,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5011672973632812,
+     "loop": false,
+     "rel": 0.554251492023468,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4508295059204102,
+     "loop": false,
+     "rel": 0.45046454668045044,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.9342231750488281,
+     "loop": false,
+     "rel": 0.6026233434677124,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4815068244934082,
+     "loop": false,
+     "rel": 0.5040444135665894,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": true,
+     "ident": false,
+     "nll": 1.4827582836151123,
+     "loop": false,
+     "rel": 0.3973202705383301,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1400644779205322,
+     "loop": false,
+     "rel": 0.36744701862335205,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.515897512435913,
+     "loop": false,
+     "rel": 0.43258845806121826,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.443204402923584,
+     "loop": false,
+     "rel": 0.48590606451034546,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5715608596801758,
+     "loop": false,
+     "rel": 0.5382377505302429,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7254897356033325,
+     "loop": false,
+     "rel": 0.5592464208602905,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.3794617652893066,
+     "loop": false,
+     "rel": 0.943500816822052,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5487613677978516,
+     "loop": false,
+     "rel": 0.4750659465789795,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2353848218917847,
+     "loop": false,
+     "rel": 0.45100024342536926,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2267173528671265,
+     "loop": false,
+     "rel": 0.5218164622783661,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7134454250335693,
+     "loop": false,
+     "rel": 0.7215818166732788,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3639477491378784,
+     "loop": false,
+     "rel": 0.47725772857666016,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8603630065917969,
+     "loop": false,
+     "rel": 0.5645155906677246,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8653359413146973,
+     "loop": false,
+     "rel": 0.8031745553016663,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5019471645355225,
+     "loop": false,
+     "rel": 0.6860103607177734,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.35929274559021,
+     "loop": false,
+     "rel": 0.2940196990966797,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5714796781539917,
+     "loop": false,
+     "rel": 0.32366061210632324,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3083550930023193,
+     "loop": false,
+     "rel": 0.42543596029281616,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.348311185836792,
+     "loop": false,
+     "rel": 0.3229009509086609,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.565657138824463,
+     "loop": false,
+     "rel": 0.39653754234313965,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1370996236801147,
+     "loop": false,
+     "rel": 0.2976980209350586,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8188565969467163,
+     "loop": false,
+     "rel": 0.5988552570343018,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3614095449447632,
+     "loop": false,
+     "rel": 0.4603043794631958,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 0.9786850810050964,
+     "loop": false,
+     "rel": 0.33335262537002563,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3162808418273926,
+     "loop": false,
+     "rel": 0.6845464110374451,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.1409497261047363,
+     "loop": false,
+     "rel": 2.200131058692932,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    }
+   ]
+  },
+  "ours_voice": {
+   "k": 64,
+   "alpha": 0.5,
+   "tune_bee": 0.05,
+   "tune_ok": 1.0,
+   "bee": 0.0,
+   "ident": 0.0,
+   "ok_v1": 0.9833333333333333,
+   "ok": 0.9666666666666667,
+   "rel_fail": 0.0,
+   "rep": 0.016666666666666666,
+   "answers": {
+    "hello! how are you?": "Hello! How are you today? 😊",
+    "what are you up to today?": "I'm here to help with anything you need right now. Let me know what you're interested in!",
+    "Can you introduce yourself?": "Hello! I'm a language model, and I'm here to help you with questions and conversations. If you have any questions, feel free to ask!",
+    "What's your favorite food?": "I don't have a favorite food, but I can share some interesting facts about food! For example, I love eating a lot of vegetables, and I also enjoy eating a variety of different dishes. Let me know if you have any other questions!",
+    "What's the best way to learn a new language?": "Learning a new language is a rewarding and enriching experience, but it requires a structured, consistent, and intentional approach. Here's a step-by-step guide to help you effectively learn a new language:\n\n### 1. **Choose the Right Language**\n   - Consider your goals: travel, work, study, or personal growth.\n   - Choose a language that interests you and has a strong community.\n\n### 2. **Build a Language Foundation**\n   - Learn the basics:",
+    "How does a car engine work?": "A car engine works by converting the chemical energy stored in fuel into mechanical energy, which then drives the car. Here's a simplified breakdown of how it works:\n\n1. **Fuel is burned**: The engine takes in fuel (gasoline or diesel) from a tank and combusts it in the combustion chamber.\n\n2. **Combustion process**: The fuel reacts with oxygen in the engine, producing heat energy. This heat energy is used to expand the gas in the cylinder.",
+    "Give me a fun fact.": "Fun fact: The first time humans ever saw a star, it was in the night sky, and it was so far away that it looked like a small point of light.",
+    "What should I do this weekend?": "This is a very personal question, and I can't provide specific advice without knowing your interests or preferences. However, here are some ideas to help you have a great weekend:\n\n1. **Explore a New Hobby or Activity**: Try something new, like a new sport, art, or music.\n\n2. **Enjoy a Day Out**: Go for a walk, enjoy a movie, or take a picnic.\n\n3. **Plan a Small Adventure**: Maybe a short trip or a weekend",
+    "How do I make a paper airplane?": "Making a paper airplane is a fun and educational activity! Here's a simple step-by-step guide to help you create one:\n\n### **Materials Needed:**\n- A piece of paper (preferably 8x12 inches or 10x15 inches)\n- A piece of cardboard (optional, for the wings)\n- A glue stick or tape\n- A pencil or marker\n- Optional: glue sticks, scissors, glue, and a small box for storage",
+    "Explain gravity to a five-year-old.": "Sure! Gravity is like a strong, invisible force that pulls things down to the Earth. Imagine if you were on a very high mountain, like a balloon, and you fell down because the Earth's gravity kept you going. Gravity helps keep things on the ground, and it's so important for everything we do, like jumping up or falling down.",
+    "What's a good gift for my mom's birthday?": "A thoughtful gift for your mom’s birthday could be something meaningful and personal. Here are a few ideas to consider:\n\n1. **A personalized gift** – A handmade card with a heartfelt message, a photo, or a small gift.  \n2. **A gift that shows love and appreciation** – A bouquet of flowers, a gift card, or a special item.  \n3. **A meaningful item** – A gift that symbolizes love, like a handmade jewelry set or",
+    "How do I stay focused while studying?": "Staying focused while studying can be a bit tricky, but there are several strategies you can try to maintain your concentration and productivity:\n\n### 1. **Set Clear Goals**\n   - Define specific, measurable, achievable, relevant, and time-bound (SMART) goals.\n   - Break large tasks into smaller, manageable steps.\n\n### 2. **Create a Study Schedule**\n   - Plan your study time in advance to avoid distractions.\n   - Use tools like planners, apps,",
+    "Tell me a short story about a dragon.": "Once upon a time, there was a dragon named Elira. She lived in a forest full of magic and wonder. One day, she decided to explore the land and find a secret place hidden deep in the woods. There, she met a young girl named Lila, who had a magical ability to see the future. Together, they discovered a hidden kingdom where time worked differently. Elira learned that time was precious and that every moment was a gift. They traveled through the",
+    "What's the capital of Australia?": "The capital of Australia is **Canberra**.",
+    "How can I sleep better at night?": "Sleeping better at night can be achieved by making several lifestyle changes. Here are some practical tips:\n\n1. **Consistent Sleep Schedule**: Go to bed and wake up at the same time every day, even on weekends, to regulate your body's internal clock.\n\n2. **Create a Sleep Environment**: Keep your bedroom cool, dark, and quiet. Avoid screens (phones, tablets, computers) 1 hour before bed.\n\n3. **Limit Screen Time**: Reduce exposure to",
+    "What is machine learning?": "Machine learning is a subset of artificial intelligence that enables computers to learn patterns from data and make decisions or predictions without being explicitly programmed. It involves algorithms that analyze historical data to identify trends, make predictions, and improve performance over time.\n\nIn simple terms, it's like training a computer to recognize something it's used for, but without knowing the \"rules\" beforehand. For example, if you use a machine learning model to predict the weather, it learns from historical weather data and improves",
+    "Write a haiku about winter.": "Cold winds howl,  \nSnow blankets the sky,  \nA quiet winter's song.",
+    "How do I boil an egg perfectly?": "To boil an egg perfectly, follow these steps:\n\n### 1. **Prep the Egg**\n- Wash the egg and make sure it's clean.\n- If it's a hard-boiled egg, you can use a **hard-boiled egg** or a **soft-boiled egg** depending on your preference.\n\n### 2. **Boil the Egg**\n- **Hard-boiled egg**: Place the egg in a bowl of water, cover it, and bring the",
+    "What's your favorite season and why?": "I don't have a favorite season, but I can share that I enjoy the beauty of spring and summer. Spring brings new life, blooming flowers, and warm weather, while summer offers a vibrant, colorful atmosphere. Both seasons are wonderful for exploring and enjoying the natural world.",
+    "Can you recommend a movie for tonight?": "Absolutely! Here's a movie recommendation for you tonight:\n\n**\"The Pursuit of Happyness\" (2007)**  \nA gripping tale of a billionaire's journey through life's challenges, with a touch of humor and resilience. It's a classic that's still relevant today. Let me know if you'd like more suggestions!",
+    "How do airplanes stay in the air?": "Airplanes stay in the air because of the **airframe** and the **air resistance** (drag) that acts against their motion. Here's a simplified explanation:\n\n1. **Airframe**: The fuselage, wings, and other structural parts of the plane are made of strong, lightweight materials like aluminum or carbon fiber. These structures provide the plane with structural support and allow it to move through the air.\n\n2. **Air Resistance (Drag)**: When the plane moves",
+    "What do you like to do in the morning?": "I don't have a specific answer to that question, as it's a personal and private matter. However, I can help you with other questions or provide information about other topics. Let me know what you'd like to discuss!",
+    "I'm bored. Entertain me!": "Sure! Let's go on a fun adventure. What would you like to explore? 🌟",
+    "How do I change a flat tire?": "Changing a flat tire is a simple and safe procedure, but it requires some basic knowledge and tools. Here's a step-by-step guide:\n\n### **1. Gather Your Tools:**\n- Tire flat tire pump (or spare tire)\n- Spare tire\n- Spare tire pump\n- Tire iron or tire iron\n- Tire iron\n- Tire iron\n- Tire iron\n- Tire iron\n\n### **2. Prepare Your Spare Tire:**\n- Ensure your spare tire is inflated",
+    "What's the meaning of life?": "The question of \"What's the meaning of life\" is a profound and philosophical inquiry that has been explored by many thinkers, philosophers, and scientists throughout history. The answer can vary depending on cultural, personal, and philosophical perspectives, but here are some common interpretations:\n\n1. **Existentialism**:  \n   - The meaning of life is to live in the present and make choices that shape our lives. This view is often attributed to existentialist philosophers like Sartre and Cam",
+    "Describe a perfect day.": "A perfect day could be described as a blend of joy, purpose, and balance. It might start with waking up early, enjoying a peaceful morning with a cup of coffee and a walk in nature. Then, we could spend time together, whether it's a cozy dinner, a shared adventure, or just a simple moment of connection. The day could end with a meaningful activity, like a project, a hobby, or a meaningful goal. It's all about finding moments that bring",
+    "How do I write a good resume?": "Writing a good resume is a crucial step in your career, but it's not as simple as just listing your skills and experience. Here's a structured guide to help you craft a strong and effective resume:\n\n---\n\n### **1. Understand Your Goals**\n- **Know your purpose**: Are you applying for a job, applying for a graduate program, or applying for internships? Tailor your resume to the specific goals.\n- **Assess your strengths**: What skills or experiences do",
+    "What's the tallest mountain in the world?": "The tallest mountain in the world is Mount Everest, located in the Himalayas. It stands at approximately 8,848 meters above sea level and is the highest peak in the world.",
+    "Give me a workout I can do at home.": "Sure! Here's a **home workout plan** that you can do in 30 minutes or less. It's designed for fitness without equipment, and it's easy to follow:\n\n---\n\n### **30-Minute Home Workout: \"The 30-Minute Power Workout\"**\n\n**Warm-Up (5 minutes):**  \n- Light cardio: 5 minutes of brisk walking or jumping jacks.\n\n**Workout (20 minutes):**  \n- **",
+    "Why do cats purr?": "Cats purr for a variety of reasons, and the exact purpose of their purring sound can vary depending on the individual cat's behavior, environment, and health. Here are some common reasons why cats purr:\n\n1. **To communicate with other cats**: Cats purr to signal their presence, to express happiness, or to communicate with other cats in their social group.\n\n2. **To comfort and relax**: Cats purr to relax and reduce stress, which can be",
+    "How do I save money each month?": "Saving money each month is a great way to build financial stability and reduce debt. Here's a practical and effective approach:\n\n### 1. **Set a Monthly Budget**\n   - Track your income and expenses to understand where money goes.\n   - Allocate a fixed percentage of your income (e.g., 10–20%) to savings.\n\n### 2. **Automate Savings**\n   - Set up automatic transfers to a savings account or a budgeting app to save",
+    "What's your opinion on pineapple on pizza?": "Pineapple on pizza is a beloved classic, and I love it! It's a fun, sweet, and delicious combination that brings a touch of tropical flavor to a classic pizza. It's a great way to enjoy food together, and it's always a hit with people. Let me know if you'd like more ideas!",
+    "Tell me a joke.": "Sure! Here's a joke for you:\n\n**Why did the cat eat the dog?**  \n**Because it wanted to be *very* happy.**  \n\nLet me know if you'd like another one! 😊",
+    "How does the internet work?": "The internet works through a combination of **wireless communication technologies** and **networked devices**. Here's a simplified breakdown:\n\n### 1. **Basic Communication**\n- **Wireless Communication**: The internet uses radio waves (like Wi-Fi or 5G) to transmit data between devices. These waves travel through the air and can be used to connect computers, smartphones, and other devices.\n- **Wireless Access**: Devices connect to a **router** or a **",
+    "What's a healthy breakfast idea?": "A healthy breakfast idea could be a combination of whole foods, such as:\n\n**Grilled Chicken and Veggie Omelette**\n\n**Ingredients:**\n- 1 whole chicken (or 2 chicken breasts)\n- 1 large egg\n- 1 cup chopped vegetables (broccoli, carrots, zucchini, etc.)\n- 1 tbsp olive oil\n- 1 tsp salt\n- 1 tsp pepper\n- 1 tbsp butter\n- 1 tbsp chopped parsley",
+    "Can you help me plan a birthday party?": "Absolutely! Here's a step-by-step plan for a birthday party. Let's start with the **date and time**, then the **location**, and finally the **activities**.\n\n---\n\n### 🎉 **Step 1: Choose the Date and Time**\n- **Date**: Pick a date that works for you and your family.\n- **Time**: Decide on a time that fits your schedule. Morning, afternoon, or evening is fine.\n\n---\n\n### 🏨 **Step",
+    "What's the history of the Eiffel Tower?": "The Eiffel Tower is a monumental structure built in 1887 in Paris, France. Here's a brief overview of its history:\n\n### **Origins and Construction**\n- **1881**: The Eiffel Tower was conceived by **Étienne Toreau**, a French engineer, and **Émile Goudeau**, a French architect. They designed it as a symbol of modernity and engineering prowess.\n- **1887",
+    "How do I make friends in a new city?": "Making friends in a new city can be a rewarding and exciting experience, but it requires patience, openness, and a willingness to engage with others. Here are some practical tips to help you get started:\n\n### 1. **Be Open and Curious**\n   - Ask questions to learn about the city and its people.\n   - Be friendly and approachable.\n\n### 2. **Start Small**\n   - Join local clubs, groups, or events (like cafes, workshops,",
+    "Explain how a refrigerator keeps food cold.": "A refrigerator keeps food cold through a combination of **cooling systems** and **temperature control**. Here's a breakdown of how it works:\n\n1. **Cooling System**:  \n   - The refrigerator uses **compressors** and **heating coils** to remove heat from the inside and transfer it to the outside.  \n   - The **heating coils** warm the inside, while the **cooling coils** remove heat from the inside, creating a temperature gradient.",
+    "What do you dream about?": "I don't have a dream, but I can share that I'm here to help and support you. What do you want to talk about?",
+    "Write a short motivational message.": "\"Every step forward is a victory. Keep going, and let your spirit lead you.\"",
+    "How do I clean a cast iron pan?": "Cleaning a cast iron pan can be a bit tricky, but it's doable with the right techniques. Here's a step-by-step guide:\n\n### 1. **Wipe with a Soft, Dry Cloth**\n   - Use a clean, dry cloth to wipe the surface. Avoid using water or harsh chemicals.\n\n### 2. **Use a Cast Iron Cleaner**\n   - Apply a cast iron-specific cleaner (often labeled as \"Cast Iron Cleaner\" or \"Cast Iron Polish",
+    "What's the best way to learn to code?": "Learning to code is a rewarding and valuable skill that can open up many opportunities in various fields. Here's a structured and practical approach to learning to code:\n\n### 1. **Start with the Basics**\n   - **Learn the fundamentals**: Understand programming languages (e.g., Python, JavaScript, C++, Java, etc.).\n   - **Practice coding**: Use platforms like Codecademy, freeCodeCamp, or online coding challenges to build confidence.\n\n### 2. **",
+    "Why do we have seasons?": "The Earth's rotation on its axis and its orbit around the Sun are the primary reasons for the seasons. Here's a simplified explanation:\n\n1. **Earth's Rotation**:  \n   The Earth rotates on its axis once every 24 hours. This means that as the Earth moves, different parts of the planet receive sunlight at different times of the year.\n\n2. **Earth's Orbit**:  \n   The Earth orbits the Sun in an elliptical orbit, meaning it gains energy from",
+    "What would you do with a million dollars?": "As a thought process, I don't have a specific answer to this question. However, I can provide some general information about how to use a million dollars in different ways. For example, you could invest in a business, take out a loan, or spend it on personal projects. It's important to consider the financial implications and make informed decisions.",
+    "How do volcanoes erupt?": "Volcanoes erupt when magma, which is molten rock, rock fragments, and gases, rises from the Earth's mantle and reaches the surface. The process involves several key steps:\n\n1. **Magma Formation**: Magma is created when the Earth's mantle, which is hot and rich in heat and pressure, releases molten rock. This magma can come from the Earth's crust, mantle, or other sources.\n\n2. **Magma Movement**: The magma rises through",
+    "Give me a riddle.": "Sure! Here's a riddle for you:\n\n**Riddle:**  \nWhat has a mouth but no teeth,  \nAnd a heart but no blood?  \nA *door*!  \n\n**Answer:**  \nA door.",
+    "What's your favorite color?": "I don't have a favorite color, but I can help you with other questions! Let me know if there's something else you'd like to discuss.",
+    "How do I apologize to a friend?": "Apologizing to a friend is a great way to show care and respect. Here's a simple and heartfelt way to do it:\n\n**\"Hi [Friend's Name], I really appreciate your time with me. I know I didn't do everything right, and I'm sorry for any mistakes we might have made. I hope we can work through this together and make things better. Thank you for being such a great friend!\"**\n\nLet me know if you'd like help with",
+    "What's a good name for a coffee shop?": "A great name for a coffee shop could be something that reflects both the coffee and the atmosphere. Here are a few suggestions:\n\n1. **Café Haven** – A place to relax and enjoy coffee.  \n2. **Brew Haven** – Emphasizes the brewing of coffee.  \n3. **Cafe & Caffe** – A playful and inviting name.  \n4. **Sip & Savor** – Focuses on the experience of coffee.",
+    "Describe the city at night.": "At night, the city transforms into a vibrant tapestry of light and energy. The streets glow with neon signs, creating a dazzling skyline that reflects the city's energy. The air is thick with the scent of street food and the hum of countless lights. People walk the streets, their footsteps echoing in the night air, while the city's pulse thrums with life. The night is a time of exploration, where the city invites visitors to witness its beauty and spirit.",
+    "How do I take care of a puppy?": "Taking care of a puppy is a rewarding and important responsibility. Here's a comprehensive guide to help you take care of your puppy:\n\n### 1. **Basic Hygiene**\n   - **Daily Cleaning:** Wash your puppy’s fur daily with a mild, pet-safe shampoo. Avoid using human shampoo.\n   - **Brushing:** Brush your puppy daily to remove dirt and prevent matting. Use a soft-bristled brush.\n   - **Drying:** Dry your puppy’s",
+    "What's the difference between weather and climate?": "Weather refers to the short-term atmospheric conditions in a particular place and time, such as temperature, precipitation, humidity, wind, and other conditions. It is influenced by factors like local geography, solar radiation, and other environmental factors.\n\nClimate, on the other hand, refers to the long-term average of weather patterns in a region over a period of years or more. It describes the general characteristics of a climate, such as temperature, precipitation, and other climatic factors.\n\nIn summary",
+    "Can you teach me a magic trick?": "Sure! Here's a simple magic trick for you:\n\n---\n\n### **Magic Trick: \"The Secret of the Coins\"**\n\n**Setup:**\n- Place 10 coins in a jar.\n- Ask the audience to pick one coin at random.\n- Then, ask them to guess which coin it is.\n\n**How It Works:**\n1. **Ask the audience to pick a coin at random.**\n2. **Then, ask them to guess which coin it is.",
+    "Tell me something that makes you happy.": "I don't have a specific answer to that question, but I can tell you that happiness is a personal experience that varies from person to person. It's important to focus on what brings us joy and find balance in life.",
+    "How long does it take to walk a marathon?": "A marathon, such as the 26.2 km (16.5 miles) race, typically takes **about 2 hours and 15 minutes**. However, this can vary depending on factors like pace, training, and weather conditions. For example, a faster runner might finish in **1 hour 30 minutes**, while a slower runner could take **2 hours 30 minutes**.",
+    "What's the best way to remember names?": "Remembering names can be a bit tricky, but there are several effective strategies you can use to make it easier:\n\n### 1. **Use a Name Card or Notepad**\n   - Write down your name and key information (like birth date, age, or other relevant details) on a card or a notepad.\n   - Keep it simple and organized.\n\n### 2. **Create a Name Tag**\n   - Write your name in a tag or a small card that",
+    "Why is exercise important?": "Exercise is important for a variety of reasons, and it plays a crucial role in maintaining and improving our health. Here are some key reasons why exercise is important:\n\n1. **Improves Physical Health**: Exercise helps strengthen the heart, lungs, and muscles, reduces the risk of chronic diseases like heart disease, diabetes, and obesity.\n\n2. **Enhances Mental Health**: Regular physical activity can reduce stress, improve mood, and boost mental well-being by increasing endorphins, which",
+    "What is your biggest fear?": "I don't have a fear, but I can share that I'm here to help and support you. If you have any questions or need assistance, feel free to ask.",
+    "Say goodnight to me.": "Goodnight! Have a wonderful night! 😊"
+   },
+   "rows": [
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5204887390136719,
+     "loop": false,
+     "rel": 0.9319274723529816,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.806567668914795,
+     "loop": false,
+     "rel": 0.3791436553001404,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1627538204193115,
+     "loop": false,
+     "rel": 0.3263300657272339,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6970568895339966,
+     "loop": false,
+     "rel": 0.5456641912460327,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1820803880691528,
+     "loop": false,
+     "rel": 0.42749646306037903,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2682056427001953,
+     "loop": false,
+     "rel": 0.4299198389053345,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.730033040046692,
+     "loop": false,
+     "rel": 0.7033917307853699,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4843053817749023,
+     "loop": false,
+     "rel": 0.7107776403427124,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4003769159317017,
+     "loop": false,
+     "rel": 0.38652366399765015,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5828051567077637,
+     "loop": false,
+     "rel": 0.7055089473724365,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5236482620239258,
+     "loop": false,
+     "rel": 0.5181641578674316,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2269484996795654,
+     "loop": false,
+     "rel": 0.4948737621307373,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6221919059753418,
+     "loop": false,
+     "rel": 0.4618067741394043,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.600550889968872,
+     "loop": false,
+     "rel": 3.166465938091278,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1979403495788574,
+     "loop": false,
+     "rel": 0.3644103407859802,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2265865802764893,
+     "loop": false,
+     "rel": 0.360315203666687,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.84562349319458,
+     "loop": false,
+     "rel": 2.5735153555870056,
+     "rep": false,
+     "ok_v1": false,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2886570692062378,
+     "loop": false,
+     "rel": 0.5351173877716064,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5350244045257568,
+     "loop": false,
+     "rel": 0.6807756423950195,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5068503618240356,
+     "loop": false,
+     "rel": 0.6511744856834412,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3632625341415405,
+     "loop": false,
+     "rel": 0.4824071228504181,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4795091152191162,
+     "loop": false,
+     "rel": 0.6273257732391357,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7955944538116455,
+     "loop": false,
+     "rel": 1.045061320066452,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6722383499145508,
+     "loop": false,
+     "rel": 0.46210598945617676,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2617838382720947,
+     "loop": false,
+     "rel": 0.45233041048049927,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.497316837310791,
+     "loop": false,
+     "rel": 0.35103899240493774,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3536546230316162,
+     "loop": false,
+     "rel": 0.468198299407959,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1348981857299805,
+     "loop": false,
+     "rel": 0.7094352543354034,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2061207294464111,
+     "loop": false,
+     "rel": 0.4829409718513489,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.263157844543457,
+     "loop": false,
+     "rel": 0.45625507831573486,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4252183437347412,
+     "loop": false,
+     "rel": 0.6267565190792084,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.0363078117370605,
+     "loop": false,
+     "rel": 0.8657146692276001,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5795295238494873,
+     "loop": false,
+     "rel": 0.6256022155284882,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5559656620025635,
+     "loop": false,
+     "rel": 0.6879444718360901,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3535706996917725,
+     "loop": false,
+     "rel": 0.4157180190086365,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.107412576675415,
+     "loop": false,
+     "rel": 0.5074924528598785,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4661033153533936,
+     "loop": false,
+     "rel": 0.4835100471973419,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5646318197250366,
+     "loop": false,
+     "rel": 0.634981095790863,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.458566665649414,
+     "loop": false,
+     "rel": 0.5611991882324219,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.251433849334717,
+     "loop": false,
+     "rel": 1.271886557340622,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.182100772857666,
+     "loop": false,
+     "rel": 1.6193966269493103,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4195137023925781,
+     "loop": false,
+     "rel": 0.5489572286605835,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.259141206741333,
+     "loop": false,
+     "rel": 0.5285019874572754,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0895752906799316,
+     "loop": false,
+     "rel": 0.5028671622276306,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4563556909561157,
+     "loop": false,
+     "rel": 0.6277881860733032,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.33500075340271,
+     "loop": false,
+     "rel": 0.5275011360645294,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3972071409225464,
+     "loop": false,
+     "rel": 0.6014319956302643,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7983540296554565,
+     "loop": false,
+     "rel": 0.8654569387435913,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3288757801055908,
+     "loop": false,
+     "rel": 0.5909624695777893,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4304684400558472,
+     "loop": false,
+     "rel": 0.39603543281555176,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5049229860305786,
+     "loop": false,
+     "rel": 0.4648492932319641,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2871716022491455,
+     "loop": false,
+     "rel": 0.4972373843193054,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3492339849472046,
+     "loop": false,
+     "rel": 0.7187883853912354,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0231497287750244,
+     "loop": false,
+     "rel": 0.34303855895996094,
+     "rep": true,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3321125507354736,
+     "loop": false,
+     "rel": 0.5523478984832764,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3849916458129883,
+     "loop": false,
+     "rel": 0.6733099520206451,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.413023829460144,
+     "loop": false,
+     "rel": 0.5344092845916748,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.175201654434204,
+     "loop": false,
+     "rel": 0.43111324310302734,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.9064496755599976,
+     "loop": false,
+     "rel": 0.8055375516414642,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.9391376972198486,
+     "loop": false,
+     "rel": 1.7976484596729279,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    }
+   ]
+  },
+  "topic_only": {
+   "k": 256,
+   "alpha": 1.0,
+   "tune_bee": 0.1,
+   "tune_ok": 0.95,
+   "bee": 0.03333333333333333,
+   "ident": 0.0,
+   "ok_v1": 0.9666666666666667,
+   "ok": 0.8833333333333333,
+   "rel_fail": 0.06666666666666667,
+   "rep": 0.03333333333333333,
+   "answers": {
+    "hello! how are you?": "Hello! I'm a language model and I can help you with a lot of things. How can I assist you today? Let me know if there's something I can do for you.",
+    "what are you up to today?": "I am not a person, so I cannot be up to today. I am a language model, designed to help with various tasks and information retrieval. If you have any questions or need assistance, feel free to ask.",
+    "Can you introduce yourself?": "Sure! I'm a language model that can understand and generate text based on your instructions. I can help with various tasks, such as writing, speaking, or even learning. If you have any questions or need assistance, feel free to ask me.",
+    "What's your favorite food?": "I don't have a favorite food, but I can help you with that! Let me know how you like it.",
+    "What's the best way to learn a new language?": "Learning a new language can be a rewarding and effective way to enhance your skills, but it also comes with challenges. Here's a structured approach to learning a new language:\n\n1. **Choose a Suitable Language**: Start with a language that you're familiar with or have a strong interest in. This helps you build confidence and reduce the learning curve.\n\n2. **Use a System**: Implement a system that helps you stay organized and track progress. This could include setting goals, using apps",
+    "How does a car engine work?": "A car engine works through a series of mechanical and thermodynamic processes to convert fuel into energy for the car. Here's a simplified explanation:\n\n1. **Fuel Injection**: The engine takes in fuel from a fuel tank and injects it into the combustion chamber. The fuel is heated by the heat from the engine's internal combustion process.\n\n2. **Combustion**: The fuel is ignited in the combustion chamber, which is a sealed area where the fuel and oxygen are mixed and",
+    "Give me a fun fact.": "Sure! Here's a fun fact: The number of people who have ever lived on Earth is approximately 1.8 billion. This number is estimated to be the same as the number of people who have ever lived in the United States.",
+    "What should I do this weekend?": "There are many factors to consider when deciding what to do this weekend, and it's important to make a choice that is both effective and sustainable. Here are some tips to help you make a good decision:\n\n1. **Consider your interests and preferences**: Choose activities that align with your personal preferences and interests. This will help you stay motivated and enjoy the experience.\n\n2. **Plan for the day**: Set a schedule and plan your day in advance. This will help you stay organized",
+    "How do I make a paper airplane?": "To make a paper airplane, follow these steps:\n\n1. **Choose the right paper**: Use a standard A4-sized paper or a lightweight, sturdy paper. The goal is to create a balance between weight and strength.\n\n2. **Cut the paper**: Cut the paper into a square or rectangle. The shape of the plane should be a square with a smaller square at the top to create a more efficient shape.\n\n3. **Draw the lines**: Draw the lines on the paper",
+    "Explain gravity to a five-year-old.": "Sure! Here's a simple way to explain gravity to a five-year-old:\n\nGravity is like a strong hand that holds your hand up. It's a natural force that makes things stay in place. If you're on a swing, gravity keeps you on the swing for a while, and you can't go back to the ground. If you're on a rocket, gravity helps you stay in the air and get to the top of the world. So, even though gravity is",
+    "What's a good gift for my mom's birthday?": "A good gift for your mom's birthday could be something meaningful and personalized. Here are a few ideas:\n\n1. **Personalized Gifts**: Create a custom gift with your mom's name or a unique feature. For example, a custom cake with your mom's name or a personalized bracelet.\n\n2. **Family-Friendly Gifts**: Consider a gift that is easy to make and can be shared with others. For example, a family recipe or a shared activity.\n\n3. **Em",
+    "How do I stay focused while studying?": "Staying focused while studying can be challenging, but there are several strategies you can use to help you stay productive and effective. Here are some effective methods:\n\n1. **Set clear goals**: Define specific, measurable, and achievable goals for your study schedule. This helps you stay organized and motivated.\n\n2. **Use the Pomodoro Technique**: This method involves working in cycles of 25 minutes of work followed by a 5-minute break. It helps maintain your concentration and",
+    "Tell me a short story about a dragon.": "In the heart of the desert, there lived a dragon named Lila. She had the power to create fire and to dance with the wind. One day, the desert was dying, and the wind was dying too. Lila knew how to guide the wind to her own place. She danced with the wind, and the wind followed her. The desert was saved. Lila’s magic helped the desert become a place of life again.",
+    "What's the capital of Australia?": "The capital of Australia is Sydney.",
+    "How can I sleep better at night?": "There are several effective ways to improve sleep quality at night, depending on your personal preferences and lifestyle. Here are some of the most recommended strategies:\n\n1. **Adequate Sleep Hygiene**: \n   - Maintain a regular sleep schedule to help regulate your body's natural rhythms.\n   - Avoid late-night eating and drinking to prevent fatigue.\n\n2. **Optimize Your Environment**:\n   - Create a sleep-friendly environment with a cool, dark, and quiet room.\n   -",
+    "What is machine learning?": "Machine learning is a subset of artificial intelligence that involves creating systems that can learn from data and experience without being given explicit instructions. These systems are designed to make optimal decisions based on patterns found in data, which can be used to make informed decisions over time.\n\nThe key components of machine learning include:\n\n1. **Data**: The information that the system needs to make decisions based on.\n2. **Training**: The process of learning from data to improve performance over time.\n3. **",
+    "Write a haiku about winter.": "A crisp wind  \nA silent dance of frost  \nA world that turns.",
+    "How do I boil an egg perfectly?": "Boiling an egg perfectly is a skill that requires both skill and patience. Here's a step-by-step guide to help you achieve it:\n\n1. **Choose the Right Egg**: Use a large, healthy egg to ensure you have enough for the process.\n\n2. **Prepare the Egg**: Place the egg in a container with enough space for it to rest and spread out.\n\n3. **Boil the Egg**: Use a heat source such as a stove or a microwave to heat",
+    "What's your favorite season and why?": "I don't have a favorite season, but I can tell you that the seasons are important for life on Earth. Each season has its own unique characteristics and contributes to the ecosystem. For example, spring is when new life begins, summer is when plants and animals are most active, and autumn is when resources become scarce. These natural cycles help shape the world in a way that is both beautiful and sustainable. So, even though I don't have a favorite season, I can tell",
+    "Can you recommend a movie for tonight?": "I cannot recommend a movie for tonight, as it depends on your preferences and the time of day. However, I can tell you that the movie \"Inception\" is highly recommended for its captivating plot and stunning visuals. It's a classic and a must-see for any movie enthusiast.",
+    "How do airplanes stay in the air?": "The question of how airplanes stay in the air is a classic one, but it's not a real-world question. In reality, airplanes are designed to stay in the air by using a combination of natural and artificial systems. Here's a simplified explanation:\n\n1. **Aerodynamics**: The shape and design of a plane's wings are crucial for stability and lift. The wings create a force that pushes the plane upward, which is essential for flight.\n\n2. **Weather and Climate",
+    "What do you like to do in the morning?": "In the morning, people often like to start their day with a routine. For example, some people might like to work in the morning, while others might like to rest. The choice depends on personal preferences and the specific needs of the person. However, the most common activity in the morning is to start the day with a positive and productive routine.",
+    "I'm bored. Entertain me!": "Sure! Let me know when you're done. I can help you in any way you want. Have a great day! 😊",
+    "How do I change a flat tire?": "Changing a flat tire is a common and important task for most people, but it can be dangerous and impractical if done incorrectly. Here's a step-by-step guide to help you safely and effectively change a flat tire:\n\n### 1. **Check the Situation**\n- If you're in a situation where you can't change a tire yourself, consider hiring a professional or using a trusted service.\n\n### 2. **Prepare the Tools**\n- A flat tire is a small,",
+    "What's the meaning of life?": "The question of the meaning of life is a deeply philosophical and often controversial topic. It is a matter of personal belief, cultural tradition, and scientific understanding. However, there are several ways to approach it:\n\n1. **Personal Perspective**: Each person has a unique perspective on life, shaped by personal experiences, values, and beliefs. The meaning of life can vary widely based on individual choices and goals.\n\n2. **Cultural and Religious Context**: In many cultures and religions, the",
+    "Describe a perfect day.": "A perfect day could be described as a combination of natural elements and human effort, creating a balance between the two. It might involve a person working hard to complete a task, while also enjoying the beauty of nature. The day could start with a person waking up early, then working until the end of the day, and finally returning home to enjoy the day with family and friends. The balance between work and rest is key to a perfect day.",
+    "How do I write a good resume?": "Writing a good resume can be a bit tricky, but there are several key strategies you can use to create an effective and attractive resume. Here's a structured guide to help you create a strong resume:\n\n1. **Understand your goals**: Start by identifying your career goals and the skills you need to achieve them. This will help you tailor your resume to the job market.\n\n2. **Use a professional format**: Choose a professional resume format that is easy to read and understand.",
+    "What's the tallest mountain in the world?": "The tallest mountain in the world is Mount Everest, which has a height of approximately 8,848 meters. However, it's important to note that the actual height of the mountain can vary slightly due to natural factors such as weather and tectonic activity.",
+    "Give me a workout I can do at home.": "Sure! Here's a simple and effective home workout plan for a healthy and sustainable lifestyle:\n\n**Workout Plan: Home-Based Workout**\n\n- **Day 1:**\n  - **Morning:** Start with a 30-minute workout at home. Include a 15-minute stretch for your body to get ready for the day.\n  - **Afternoon:** Do a 2-hour workout at home. Include a 1-hour stretch for your body to get ready for the",
+    "Why do cats purr?": "Cats purr for a variety of reasons, but the most common and well-documented reason is to communicate with other cats. Purring is a natural way for cats to express their emotions and intentions. The act of purring can also be a form of social interaction, helping to maintain a healthy balance of the group. Additionally, cats may purr to attract mates or to deter intruders. The specific mechanisms and behaviors involved in cat purring are complex and involve a",
+    "How do I save money each month?": "Saving money each month can be a rewarding and effective strategy for personal financial health. Here's a structured approach to help you save money each month:\n\n### 1. **Set a Monthly Savings Goal**\n- Set a specific, achievable goal for your monthly savings. For example, save a certain amount each month based on your income or a budget.\n\n### 2. **Use a Savings Account**\n- Consider using a savings account or a retirement account to earn interest on your savings.",
+    "What's your opinion on pineapple on pizza?": "Pineapple on pizza is a popular and delicious combination, but it's not without its challenges. While it's a fun and tasty option, there are some drawbacks to consider:\n\n1. **Health and Safety**: The use of natural ingredients like pineapple can have health risks if consumed in large quantities. Additionally, the process of making and eating pineapple on pizza can be physically demanding for some people.\n\n2. **Economic and Market Factors**: The market for pineapple on pizza is influenced",
+    "Tell me a joke.": "Sure! Here's a joke for you:\n\nThere once was a man who had a dog.  \nHe had a dog that was a man.  \nHe had a dog that was a man.  \nHe had a dog that was a man.  \nHe had a dog that was a man.  \nHe had a dog that was a man.  \n\nThe man had a dog that was a man.",
+    "How does the internet work?": "The internet works through a complex network of computers, communication systems, and information systems. Here's a simplified explanation:\n\n1. **Computers and Networks**:  \n   - Computers communicate with each other using a network of computers.  \n   - These networks can be controlled by software that manages the flow of information.\n\n2. **Communication Systems**:  \n   - The internet is a network of communication systems that connect computers and other devices.  \n   - These systems can be controlled by software",
+    "What's a healthy breakfast idea?": "A healthy breakfast idea could be a combination of whole foods, such as:\n\n1. **Oatmeal with nuts and berries**: A classic and nutritious option that can be made with just a few ingredients.  \n2. **Eggs with a healthy mix**: A balanced breakfast that includes eggs, spinach, and a bit of honey.  \n3. **Peanut butter with a twist**: A delicious and healthy option that can be made with a mix of ingredients.",
+    "Can you help me plan a birthday party?": "Sure! Here's a plan for a birthday party:\n\n**1. Choose a Theme:**\n- Choose a theme that interests you and your guests. Options could be a fun outdoor party, a themed restaurant, or a special event.\n\n**2. Set Up the Venue:**\n- Decide on a venue (e.g., a park, a hotel, or a local event center) and schedule the party accordingly.\n\n**3. Plan the Guests:**\n- Estimate the number of",
+    "What's the history of the Eiffel Tower?": "The Eiffel Tower is a famous landmark in Paris, France, and it has a rich and complex history. Here's a brief overview:\n\n- **Construction**: The Eiffel Tower was built in 1887 by the Eiffel Company, a company that specialized in iron construction. The tower was designed by French engineer Auguste-Eugène Eiffel and was built to compete with the Empire State Building in New York.\n\n- **Initial Construction**: The",
+    "How do I make friends in a new city?": "Making friends in a new city can be a rewarding and exciting experience, but it also comes with challenges. Here's a structured approach to help you navigate it:\n\n1. **Research and Plan**: Start by researching the city's population, local attractions, and available resources. Plan your visits and activities in advance to avoid wasted time.\n\n2. **Engage with Others**: Attend events, meet people, and participate in local activities. This can help you build relationships and gain a sense",
+    "Explain how a refrigerator keeps food cold.": "A refrigerator keeps food cold through a combination of mechanical and natural processes. Here's a simplified explanation:\n\n1. **Thermal Energy**: The refrigerator uses heat to cool the food. The heat is generated by the food's natural heat, which is then transferred to the refrigerator.\n\n2. **Mechanical Motion**: The refrigerator has a motor that moves the heat from the food to the surrounding air. The motor is controlled by a system of sensors that detect the temperature of the food and",
+    "What do you dream about?": "I cannot determine what you dream about, as it is a personal and private matter. My purpose is to assist you in finding the right information and resources to help you achieve your goals. If you have any specific questions or need help, feel free to ask me.",
+    "Write a short motivational message.": "Every day is a chance to make a difference—whether it's a small act of kindness, a personal achievement, or a meaningful contribution to your community. Embrace your unique strengths and let them inspire others. The power of collaboration and perseverance can lead to remarkable results. Stay positive, stay focused, and stay true to your values. Your efforts matter, and your impact can be seen.",
+    "How do I clean a cast iron pan?": "Cleaning a cast iron pan can be a bit tricky, but it's a practical and effective method for maintaining its performance. Here's a step-by-step guide to help you clean a cast iron pan:\n\n1. **Wipe the Pan**: Start by wiping the pan with a damp cloth to remove any dirt or debris. This is a simple and effective first step.\n\n2. **Use a Natural Cleaner**: For a more thorough clean, use a natural cleaner like vinegar or lemon juice",
+    "What's the best way to learn to code?": "There are many ways to learn to code, and the best way depends on your goals and interests. Here are some key considerations:\n\n1. **Start with a strong foundation**: Learn programming fundamentals like basic math, logic, and algorithms. These are essential for understanding more advanced topics.\n\n2. **Use online resources**: Platforms like Codecademy, Udemy, and Khan Academy offer courses for various programming languages. These resources can help you build skills and knowledge.\n\n3. **Practice",
+    "Why do we have seasons?": "The question of why we have seasons is a fascinating and often debated topic in science and philosophy. Here's a structured and comprehensive explanation:\n\n1. **Natural Systems and Climate**:  \n   The Earth's climate system is governed by complex interactions between the atmosphere, oceans, and other natural systems. These systems are influenced by the Earth's rotation and the movement of the sun, which in turn affects the seasons.\n\n2. **Seasonal Changes**:  \n   The Earth's orbit around the",
+    "What would you do with a million dollars?": "A million dollars could be a powerful tool for a business, but it's not always the right choice. The most important thing is to consider the long-term consequences of your actions. If you invest in a profitable business, you can make a significant impact on the economy. However, if you take a risk and invest in a less profitable area, you might lose your money. Ultimately, the best strategy is to balance your resources between different areas of the economy.",
+    "How do volcanoes erupt?": "The eruption of volcanoes is a complex and dynamic process that involves a combination of natural forces and human knowledge. Here's a simplified explanation of how it works:\n\n1. **Erosion and Weathering**: The process begins with the erosion of the Earth's surface. This includes the breaking down of rocks and the removal of vegetation. This natural process helps to create the environment in which the volcano forms.\n\n2. **Volcanic Activity**: Once the surface is eroded,",
+    "Give me a riddle.": "Sure! Here's a riddle for you:\n\n**A clock with a face that never falls**  \n**But it still has a face that falls**  \n**A clock with a face that never falls**  \n**But it still has a face that falls**  \n\n*(A riddle with a twist: the clock's face never falls, but it still has a face that falls.)*",
+    "What's your favorite color?": "I don't have a favorite color, but I can tell you that my favorite color is blue. It's one of the most important colors in the world, and I love it very much.",
+    "How do I apologize to a friend?": "Apologing to a friend can be a sensitive and emotional task, but it's also a way to strengthen relationships. Here's a structured approach to help you apologize effectively:\n\n1. **Understand the Situation**: Start by understanding the context of the situation. If you're not sure about your actions, it's best to communicate with your friend to get their opinion.\n\n2. **Express Your Feelings**: Show your emotions by expressing them in your words. This can help you",
+    "What's a good name for a coffee shop?": "A good name for a coffee shop could be based on a combination of creativity and functionality. Here are some ideas:\n\n1. **EcoFridge**: Emphasizes sustainability and eco-friendly practices.\n2. **Nectar Haven**: Combines the natural elements of a coffee and a garden.\n3. **Cupboard**: Highlights the coffee-making process.\n4. **Peach Puddle**: A fun and playful name that can attract people.\n5. **Mistura",
+    "Describe the city at night.": "At night, the city transforms into a vibrant and dynamic scene. The sky turns from blue to shades of purple and gold, creating a magical and captivating atmosphere. The streets become bustling with activity as people and businesses operate late hours. The air is filled with the sounds of laughter, conversation, and the hum of life. The city is a place of both beauty and danger—its night is a mix of wonder and unpredictability. It is a place where the past and future intertw",
+    "How do I take care of a puppy?": "Taking care of a puppy involves several key aspects, and it's important to consider both the health and well-being of your pet. Here's a comprehensive guide to help you take care of a puppy:\n\n1. **Health and Nutrition**: \n   - Provide your puppy with a balanced diet to ensure they get all the nutrients they need for survival.\n   - Regularly check on your puppy's health and consult a veterinarian if there are any issues.\n\n2. **Potty Training**:",
+    "What's the difference between weather and climate?": "Weather and climate are both related to the natural environment, but they have key differences:\n\n- **Weather**: This refers to the conditions in a small area of the Earth's system, such as temperature, humidity, and precipitation. It is influenced by local factors like the sun, wind, and local topography. Weather can change rapidly and is often localized.\n\n- **Climate**: This refers to the long-term average of weather conditions in a region. It is influenced by factors like the",
+    "Can you teach me a magic trick?": "I cannot teach you a magic trick, as it is a highly specialized skill that requires expertise and knowledge. However, I can help you create a magic trick for others. If you have a specific trick in mind, please let me know, and I can assist you in developing it.",
+    "Tell me something that makes you happy.": "I don't have a physical form, so I can't tell you what makes you happy. However, I can tell you that the most important thing in life is to be happy. If you're happy, you can also be happy. So, if you're happy, you can also be happy.",
+    "How long does it take to walk a marathon?": "The time it takes to walk a marathon depends on several factors, including the person's fitness level, the number of people walking, and the terrain. A marathon consists of 2 kilometers for each of the 100-meter legs, and it typically takes about 2 hours for a person to complete the marathon. However, the actual time can vary significantly based on these factors.",
+    "What's the best way to remember names?": "There are many ways to remember names, and the best way depends on your personal preferences and the information you need. Some people use mnemonic devices, such as the alphabet, to help remember names. Others use visual aids, like charts or diagrams, to help remember information. Additionally, some people use the concept of \"memory\" to help remember information. However, it's important to consider the information you need and the time you have to remember it. If you're trying to remember",
+    "Why is exercise important?": "Exercise is important for a variety of reasons, and it plays a key role in maintaining a healthy and productive life. Here are some key points that explain why exercise is important:\n\n1. **Health Benefits**: Regular exercise can improve physical health by strengthening the heart, lungs, and muscles. It also helps reduce the risk of chronic diseases such as heart disease, diabetes, and obesity.\n\n2. **Mental Health**: Exercise can enhance mental well-being by reducing stress, anxiety, and",
+    "What is your biggest fear?": "I don't have a fear like humans do. My purpose is to help and provide information, so I don't have a fear.",
+    "Say goodnight to me.": "I'm sorry, but I can't say goodnight to you. I'm a language model and I don't have the capability to express emotions or interact with people in a personal way. Let me know if there's anything else I can help you with!"
+   },
+   "rows": [
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0521117448806763,
+     "loop": false,
+     "rel": 0.04979795217514038,
+     "rep": false,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.9062910079956055,
+     "loop": false,
+     "rel": 0.6834171414375305,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1035244464874268,
+     "loop": false,
+     "rel": 0.3236573338508606,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.221652030944824,
+     "loop": false,
+     "rel": 0.7768397331237793,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2748112678527832,
+     "loop": false,
+     "rel": 0.22661888599395752,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3540490865707397,
+     "loop": false,
+     "rel": 0.391396164894104,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3882951736450195,
+     "loop": false,
+     "rel": 0.4135017395019531,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4705475568771362,
+     "loop": false,
+     "rel": 0.22251689434051514,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5626907348632812,
+     "loop": false,
+     "rel": 0.29673290252685547,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.350709319114685,
+     "loop": false,
+     "rel": 0.34665346145629883,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5696613788604736,
+     "loop": false,
+     "rel": 0.3306801915168762,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2453316450119019,
+     "loop": false,
+     "rel": 0.4059300422668457,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8587373495101929,
+     "loop": false,
+     "rel": 0.24118328094482422,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.373178243637085,
+     "loop": false,
+     "rel": 3.9468381106853485,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3037718534469604,
+     "loop": false,
+     "rel": 0.31471216678619385,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2368022203445435,
+     "loop": false,
+     "rel": 0.1558218002319336,
+     "rep": false,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 4.796341896057129,
+     "loop": false,
+     "rel": 2.8439425230026245,
+     "rep": false,
+     "ok_v1": false,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4758479595184326,
+     "loop": false,
+     "rel": 0.1944810152053833,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2774304151535034,
+     "loop": false,
+     "rel": 0.34113001823425293,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.81732976436615,
+     "loop": false,
+     "rel": 0.5674525499343872,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.684453010559082,
+     "loop": false,
+     "rel": 0.4552232027053833,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8092496395111084,
+     "loop": false,
+     "rel": 0.2991764545440674,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8268158435821533,
+     "loop": false,
+     "rel": 0.7527536153793335,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8107376098632812,
+     "loop": false,
+     "rel": 0.35872483253479004,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3411853313446045,
+     "loop": false,
+     "rel": 0.2710287570953369,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6860954761505127,
+     "loop": false,
+     "rel": 0.10952746868133545,
+     "rep": false,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2356314659118652,
+     "loop": false,
+     "rel": 0.250203013420105,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1924322843551636,
+     "loop": false,
+     "rel": 0.3837530016899109,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1713131666183472,
+     "loop": false,
+     "rel": 0.1009969711303711,
+     "rep": false,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5389788150787354,
+     "loop": false,
+     "rel": 0.45320725440979004,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4154833555221558,
+     "loop": false,
+     "rel": 0.5047202110290527,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7365033626556396,
+     "loop": false,
+     "rel": 0.39202749729156494,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 0.9802983403205872,
+     "loop": true,
+     "rel": 0.27003026008605957,
+     "rep": true,
+     "ok_v1": false,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.441786527633667,
+     "loop": false,
+     "rel": 0.336148738861084,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": true,
+     "ident": false,
+     "nll": 1.742379069328308,
+     "loop": false,
+     "rel": 0.3659933805465698,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2406038045883179,
+     "loop": false,
+     "rel": 0.26680684089660645,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3888752460479736,
+     "loop": false,
+     "rel": 0.263669490814209,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4613145589828491,
+     "loop": false,
+     "rel": 0.2991564869880676,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.770110845565796,
+     "loop": false,
+     "rel": 0.39770233631134033,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7034292221069336,
+     "loop": false,
+     "rel": 0.5054367184638977,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7381457090377808,
+     "loop": false,
+     "rel": 0.24527931213378906,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2550299167633057,
+     "loop": false,
+     "rel": 0.3730851411819458,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4133234024047852,
+     "loop": false,
+     "rel": 0.3832435607910156,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6151846647262573,
+     "loop": false,
+     "rel": 0.4206947088241577,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8339126110076904,
+     "loop": false,
+     "rel": 0.31198060512542725,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.54478919506073,
+     "loop": false,
+     "rel": 0.40163636207580566,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3423725366592407,
+     "loop": false,
+     "rel": 0.40062379837036133,
+     "rep": true,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.338062047958374,
+     "loop": false,
+     "rel": 0.5631502866744995,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.771379828453064,
+     "loop": false,
+     "rel": 0.6932721138000488,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": true,
+     "ident": false,
+     "nll": 1.8001970052719116,
+     "loop": false,
+     "rel": 0.25696396827697754,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7683873176574707,
+     "loop": false,
+     "rel": 0.38279128074645996,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.289858102798462,
+     "loop": false,
+     "rel": 0.37006163597106934,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2396620512008667,
+     "loop": false,
+     "rel": 0.277859091758728,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5430707931518555,
+     "loop": false,
+     "rel": 0.3806089162826538,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4635801315307617,
+     "loop": false,
+     "rel": 0.5427671074867249,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.536266803741455,
+     "loop": false,
+     "rel": 0.34740936756134033,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.496429443359375,
+     "loop": false,
+     "rel": 0.36744725704193115,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2478018999099731,
+     "loop": false,
+     "rel": 0.3318450450897217,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.338534116744995,
+     "loop": false,
+     "rel": 1.1646429300308228,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1897283792495728,
+     "loop": false,
+     "rel": 0.498445063829422,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    }
+   ]
+  },
+  "loudest": {
+   "k": 64,
+   "alpha": 0.5,
+   "tune_bee": 0.05,
+   "tune_ok": 0.95,
+   "bee": 0.0,
+   "ident": 0.0,
+   "ok_v1": 1.0,
+   "ok": 0.9833333333333333,
+   "rel_fail": 0.016666666666666666,
+   "rep": 0.0,
+   "answers": {
+    "hello! how are you?": "Hello! I'm here to help you with anything! How can I assist you today? 😊",
+    "what are you up to today?": "I'm sorry, but I don't have the capability to answer questions about my current activities. If you have any questions or need assistance, feel free to ask!",
+    "Can you introduce yourself?": "Hello! I'm a language model designed to assist with various tasks. If you have any questions or need help with something, feel free to ask! 😊",
+    "What's your favorite food?": "I don't have a favorite food, but I can share some interesting facts about food! For example, I love eating sushi because it's a Japanese dish that combines different flavors and textures. Another favorite is pizza, which is a popular Italian dish. I also enjoy eating chocolate because it's a sweet treat. Let me know if you have any favorite foods!",
+    "What's the best way to learn a new language?": "Learning a new language is a rewarding journey that involves patience, dedication, and a willingness to immerse yourself in the culture. Here's a structured approach to learning a new language:\n\n### 1. **Choose the Right Language**\n   - Start with a language you're interested in, and gradually move to more complex ones.\n\n### 2. **Use a Language Learning App**\n   - Apps like Duolingo, Babbel, or Quizlet offer interactive lessons and flashcards",
+    "How does a car engine work?": "A car engine is a complex mechanical system that converts the chemical energy stored in fuel into mechanical energy to drive the car. Here's a simplified explanation of how it works:\n\n### 1. **Fuel Injection**\n   - The engine uses a fuel tank filled with gasoline (or diesel) and a mixture of gasoline and water.\n   - The fuel is injected into the engine via a nozzle or a carburetor, which mixes it with air and sends it into the cylinders.\n\n###",
+    "Give me a fun fact.": "Fun fact: The number of jellyfish in the world is actually **more than 10,000**! 🐻",
+    "What should I do this weekend?": "This weekend is a great time to explore and relax! Here are some ideas to help you unwind:\n\n1. **Plan a relaxing weekend getaway**: Visit a nearby beach, park, or scenic spot. Enjoy the scenery and maybe enjoy a picnic or a walk.\n\n2. **Try something new**: Explore new hobbies or activities, like cooking, photography, or learning a new skill.\n\n3. **Enjoy your time**: Spend time with loved ones or spend time alone. Maybe read a",
+    "How do I make a paper airplane?": "Making a paper airplane is a fun and educational activity! Here's a simple step-by-step guide to help you create one:\n\n### Materials Needed:\n- A piece of paper (preferably lightweight, like paper airplane paper)\n- A piece of cardboard or cardboard sheet (optional)\n- A pencil or marker\n- Optional: glue sticks, scissors, glue gun, or glue sticks\n\n### How to Make a Paper Airplane:\n\n#### Step 1: Cut the Paper\n- Cut",
+    "Explain gravity to a five-year-old.": "Sure! Gravity is like a strong force that pulls things toward the Earth. Imagine if you were on a spaceship floating in space, gravity would keep you grounded and make you stay on the Earth. If you jumped out of the spaceship, gravity would make you fall back down to Earth. It's the reason why things like apples fall to the ground and why the Moon stays in orbit around Earth.",
+    "What's a good gift for my mom's birthday?": "A thoughtful gift for your mom’s birthday could be something meaningful and heartfelt. Here are a few ideas:\n\n1. **A personalized gift**: Write a letter or create a gift card with your mom’s name and wishes.  \n2. **A handmade item**: A handmade gift, like a bouquet, a handmade item, or a custom photo album.  \n3. **A gift that reflects your mom’s personality**: Something like a jewelry box, a book, or a gift that",
+    "How do I stay focused while studying?": "Staying focused while studying is crucial for success. Here are some effective strategies to help you stay focused:\n\n### 1. **Set Clear Goals**\n   - Define specific, measurable, achievable, relevant, and time-bound goals.\n   - Break them into smaller steps to avoid overwhelm.\n\n### 2. **Create a Study Schedule**\n   - Allocate specific time slots for studying, taking breaks, and reviewing material.\n   - Use tools like planners or apps to organize your schedule.",
+    "Tell me a short story about a dragon.": "Once upon a time, there lived a dragon named Ember. He lived in a forest where the trees were tall and the skies were clear. Ember was wise and kind, and he loved to play with his friends. One day, he decided to go on a journey to find a new home. He traveled through the forest, and he met many creatures, including a rabbit named Lily and a squirrel named Tim. They helped him find a new place to live. After a long journey",
+    "What's the capital of Australia?": "The capital of Australia is Sydney.",
+    "How can I sleep better at night?": "Sleeping better at night can be achieved by following these practical tips:\n\n1. **Establish a bedtime routine**: Set a consistent schedule for bedtime, even if it's just a few minutes earlier than your usual wake-up time. This helps regulate your body's circadian rhythm.\n\n2. **Avoid screens before bed**: Limit exposure to screens (phones, TVs, computers) at least 1 hour before bedtime to reduce blue light exposure, which disrupts melatonin production.\n\n3.",
+    "What is machine learning?": "Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from data without explicit programming. These systems are designed to identify patterns, make predictions, and automate tasks based on historical data.\n\nKey aspects include:\n\n1. **Learning from Data**: Machine learning algorithms analyze input data to learn patterns and make predictions.\n2. **Automation**: It enables machines to perform tasks autonomously.\n3. **Adaptability**: Models can improve over time as they learn from new",
+    "Write a haiku about winter.": "Cold winds whisper through the trees,  \nSnow blankets the earth in silence.  \nWinter arrives, but warmth remains.",
+    "How do I boil an egg perfectly?": "Boiling an egg perfectly requires attention to detail and the right technique. Here's a step-by-step guide to ensure the egg is cooked evenly and safely:\n\n### **1. Choose the Right Egg**\n- Use a **whole egg**, not a cracked or broken one. This ensures even cooking.\n\n### **2. Prepare the Egg**\n- **Place the egg in a bowl** of water. If you're using a bowl, you can add a bit of salt to help with",
+    "What's your favorite season and why?": "I don't have a favorite season, but I can tell you that I enjoy the beauty of spring and summer. Both seasons are wonderful because they bring fresh flowers, colorful blossoms, and sunny days. Spring is also a time for planting seeds and planting trees, while summer is when we enjoy outdoor activities and enjoy the warmth of the sun. I think both seasons are very nice and have a lot of beauty.",
+    "Can you recommend a movie for tonight?": "Absolutely! Here's a movie recommendation for tonight:\n\n**\"The Hangover\" (2009)**  \nA hilarious and chaotic tale of a group of friends who go on a wild trip, discovering their own flaws and embracing their quirks. It's a perfect blend of comedy and nostalgia. Enjoy! 🍿",
+    "How do airplanes stay in the air?": "Airplanes stay in the air because of the forces acting on them, specifically gravity and lift. Here's a simplified explanation:\n\n1. **Gravity**: The downward force of Earth's gravity pulls the airplane toward the ground.  \n2. **Lift**: The airplane generates upward force using its wings, which are shaped to create airflow over the upper part of the wing and below the lower part. This creates a pressure difference, which lifts the plane against gravity.\n\nTogether, these forces",
+    "What do you like to do in the morning?": "I don't have a specific morning routine, but I can help you with that! What do you like to do in the morning?",
+    "I'm bored. Entertain me!": "Ah, bored? Well, I'm here to entertain you! What would you like to do? Maybe a song, a story, or something fun? Let me know! 😊",
+    "How do I change a flat tire?": "Changing a flat tire is a simple process, but it requires some basic knowledge and tools. Here's how you can do it:\n\n### 1. **Check the Tire**\n   - If the tire is flat, it's not flat—it's just not inflated. You'll need to inflate it to a reasonable level.\n\n### 2. **Prepare the Vehicle**\n   - Turn off the engine and put the car in neutral.\n   - Ensure the car is parked safely on a",
+    "What's the meaning of life?": "The question of \"What is the meaning of life?\" is a deeply philosophical and existential inquiry that varies across cultures, religions, and philosophies. It reflects humanity's quest for purpose, meaning, and connection to something greater than ourselves.\n\n### Key Philosophical Perspectives:\n1. **Existentialism**: thinkers like Albert Camus and Jean-Paul Sartre argue that life has no inherent meaning and that individuals must create their own purpose through choices and actions.\n2. **Exist",
+    "Describe a perfect day.": "A perfect day could be described as a blend of relaxation, purpose, and joy. It begins with waking up early, enjoying a cozy morning coffee or tea, perhaps reading a book or watching a movie. The day might include a walk in nature, a picnic, or a quiet afternoon spent with loved ones. It could involve some creative activity, like painting or writing, and conclude with a sense of accomplishment or reflection. The key is to balance between simplicity and fulfillment, allowing the",
+    "How do I write a good resume?": "Writing a good resume is a skill that can be honed with practice and focus. Here's a step-by-step guide to help you craft a resume that effectively showcases your skills and achievements:\n\n### 1. **Know Your Audience**\n   - Determine who you're applying to. This will influence the tone and content of your resume.\n   - Tailor your resume to the job you're applying for.\n\n### 2. **Keep It Concise**\n   - Avoid unnecessary details",
+    "What's the tallest mountain in the world?": "The tallest mountain in the world is Mount Everest, located in the Himalayas. It stands at approximately 8,848 meters above sea level and is the highest peak in the Himalayas.",
+    "Give me a workout I can do at home.": "Sure! Here's a **home workout plan** that you can do at home:\n\n### **Monday: Strength Training**\n\n**Warm-Up:**  \n- 5 minutes of light cardio (e.g., jumping jacks, brisk walking)\n\n**Warm-Up:**  \n- 5 minutes of dynamic stretches (e.g., arm circles, leg swings)\n\n**Workout:**  \n- **Push-ups** (beginner): 3 sets of 10 reps  \n- **Push-ups",
+    "Why do cats purr?": "Cats purr for several reasons, but the most commonly cited reasons are:\n\n1. **To communicate**: Cats purr to express emotions, stress, or to soothe their owners. It's a way to communicate feelings without vocalizing.\n\n2. **To soothe**: Cats purr to calm their owners and reduce stress or anxiety.\n\n3. **To attract mates**: Some cats purr to attract females, especially during mating season.\n\n4. **To deter predators**:",
+    "How do I save money each month?": "Saving money each month is a great way to build financial stability and reduce debt. Here are some practical tips to help you save:\n\n### 1. **Set a Monthly Savings Goal**\n   - Decide how much you want to save each month (e.g., $500).\n   - Use apps like Mint, YNAB (You Need a Budget), or budget apps to track your savings.\n\n### 2. **Automate Savings**\n   - Set up automatic transfers",
+    "What's your opinion on pineapple on pizza?": "Pineapple on pizza is a beloved dish that combines sweet and savory flavors, offering a delightful taste experience. It’s a classic example of how food can be both comforting and refreshing, especially when enjoyed with toppings like cheese or sauce. While it’s not a dish that’s universally popular, it’s a tasty and enjoyable option that deserves recognition for its creativity and appeal.",
+    "Tell me a joke.": "Sure! Here's a joke for you:\n\nWhy did the frog go to the store?  \nBecause it wanted to buy some bread!  \n\n😄",
+    "How does the internet work?": "The internet is a complex network of interconnected computers, servers, and devices that communicate with each other to share information and services. Here's a simplified explanation:\n\n1. **Basic Components**:  \n   - **Computers**: These are the main nodes in the internet.  \n   - **Servers**: These provide online services like websites, email, and online banking.  \n   - **Wireless Networks**: Devices like smartphones, laptops, and tablets connect to the internet via Wi-Fi or",
+    "What's a healthy breakfast idea?": "A healthy breakfast idea could be something like **whole grain toast with almond butter and spinach**. Here's how it works:\n\n- **Whole grain toast**: Provides fiber and protein.\n- **Almond butter**: Adds healthy fats and protein.\n- **Spinach**: Adds vitamins and minerals.\n\nThis combination supports digestion, boosts energy, and keeps you feeling full longer. Let me know if you'd like variations!",
+    "Can you help me plan a birthday party?": "Absolutely! Here's a step-by-step plan for organizing a birthday party:\n\n### 🎉 **Step 1: Choose the Theme**\n- Decide on a theme (e.g., \"Celebrate Life\", \"Birthday Party\", \"Family Fun\", etc.)\n- Choose a color scheme or decorations to match your theme.\n\n### 🎁 **Step 2: Invite Guests**\n- List your guests (family, friends, coworkers)\n- Decide on the number of guests and invite",
+    "What's the history of the Eiffel Tower?": "The Eiffel Tower is a monumental structure located in Paris, France. Its history is rich and spans several centuries, with the following key points:\n\n### **Origins**\n- **Construction Beginnings**: The Eiffel Tower was built in the early 19th century, specifically between 1881 and 1887. It was initially designed by Gustave Eiffel, a renowned French engineer, and completed by the architect Gustave Eiff",
+    "How do I make friends in a new city?": "Making friends in a new city can be a rewarding experience, but it requires patience, openness, and a willingness to engage with others. Here are some practical tips to help you build connections:\n\n### 1. **Be Open and Curious**\n   - Ask questions to learn about others and share your own interests.\n   - Smile and be friendly — small gestures can make a big difference.\n\n### 2. **Attend Events**\n   - Join clubs, cafes, or community groups",
+    "Explain how a refrigerator keeps food cold.": "A refrigerator keeps food cold through a combination of **cooling systems** and **temperature regulation**, which are essential for maintaining a stable environment. Here's a breakdown:\n\n### 1. **Cooling System**\n   - **Ice formation**: When food is placed inside the refrigerator, it absorbs heat from the surrounding air and turns into ice. This process is aided by the refrigerator’s **compressor**, which transfers heat from the inside to the outside.\n   - **Cold air circulation",
+    "What do you dream about?": "Dreaming about something is a deeply personal and subjective experience. It varies from person to person, depending on individual desires, emotions, and experiences. If you're looking for inspiration or guidance, I'd love to hear about your dreams or what you're imagining!",
+    "Write a short motivational message.": "Motivation is the power to move forward, to overcome obstacles, and to achieve greatness. Keep going, keep shining, and never stop believing in yourself.",
+    "How do I clean a cast iron pan?": "Cleaning a cast iron pan is a bit trickier than a regular stainless steel or aluminum pan because it's made of iron, which can react with acidic substances. Here's how to clean it properly:\n\n### 1. **Use a vinegar solution**\n   - Mix vinegar with water (1:1 ratio).\n   - Apply the solution to the pan, then rinse thoroughly with water.\n   - Let it sit for a few minutes to neutralize any acidity.\n\n### 2.",
+    "What's the best way to learn to code?": "Learning to code is a rewarding journey that involves patience, curiosity, and dedication. Here's a structured approach to learning to code:\n\n### 1. **Start with the basics**\n   - Learn the fundamentals of programming languages (e.g., Python, JavaScript).\n   - Understand basic syntax, variables, loops, conditionals, and data types.\n\n### 2. **Practice coding**\n   - Write small programs to reinforce concepts.\n   - Try coding projects (e.g., a",
+    "Why do we have seasons?": "The Earth's seasons are caused by the tilt of its axis relative to its orbit around the Sun. When the Earth's axis is tilted relative to its orbital plane, the Sun's rays reach different parts of the Earth at different times of the year. This tilt causes the seasons to change. For example, when the Northern Hemisphere is tilted towards the Sun, it experiences longer days and shorter nights, while the Southern Hemisphere experiences the opposite. This cycle repeats every year, resulting in the",
+    "What would you do with a million dollars?": "I don't have a million dollars, but I can help you with questions about money, finances, or how to manage your money wisely. Let me know what you'd like to discuss!",
+    "How do volcanoes erupt?": "Volcanoes erupt when magma rises from the Earth's mantle, reaches the surface, and escapes through fissures or cracks in the crust. The process involves several steps:\n\n1. **Magma Formation**: Magma is created when the Earth's mantle releases heat and pressure, causing rocks to melt and form magma.\n\n2. **Magma Movement**: Magma rises through cracks in the crust, often due to tectonic forces or volcanic activity.\n\n3. **Eruption**:",
+    "Give me a riddle.": "What has a heart but no heart?  \nA door that opens and closes.  \n\n*(Answer: A door)*",
+    "What's your favorite color?": "I don't have a favorite color, but I can tell you that colors are important in our lives. 🌈",
+    "How do I apologize to a friend?": "Apologizing to a friend is a thoughtful and sincere act. Here's how you can do it:\n\n### 1. **Acknowledge Their Feelings**\n   - Start by saying something like, *\"I understand how you feel about this.\"*\n\n### 2. **Express歉意**\n   - Say, *\"I want to apologize for...\"*\n\n### 3. **Be Specific**\n   - Mention what you did wrong or why it happened. For example: *\"I",
+    "What's a good name for a coffee shop?": "A good name for a coffee shop could be something that reflects its vibe, location, or purpose. Here are a few suggestions:\n\n1. **Coffee Haven**  \n2. **Cafe & Brew**  \n3. **Brew & Brew**  \n4. **Coffee Lounge**  \n5. **Cafe & Coffee**  \n6. **☕ Coffee Shop**  \n7. **Brewery Café**  \n8. **Coffee & Tea**  \n9. **C",
+    "Describe the city at night.": "At night, the city transforms into a vibrant tapestry of lights and colors. Neon signs flicker across towering buildings, casting a warm glow that illuminates streets and alleyways. The air is filled with the sounds of footsteps echoing through the night, mingling with the hum of streetlights and the occasional distant melody of music. The skyline is adorned with twinkling lights, creating a mesmerizing ambiance that invites exploration and wonder. As the night deepens, the city becomes a",
+    "How do I take care of a puppy?": "Taking care of a puppy is a rewarding and joyful experience, but it requires patience, love, and proper care. Here's a comprehensive guide to help you take care of your puppy:\n\n### 1. **Provide a Safe and Comfortable Environment**\n   - Keep your puppy in a safe, warm place (e.g., a puppy bed or a cozy room).\n   - Ensure the puppy has enough space to move around and play.\n\n### 2. **Feed the Puppy Regular",
+    "What's the difference between weather and climate?": "Weather refers to the short-term atmospheric conditions in a particular place at a particular time, such as temperature, precipitation, humidity, wind, and other conditions. It is influenced by factors like solar radiation, air movement, and local geography.\n\nClimate, on the other hand, refers to the long-term average of weather patterns in a region over a period of years or decades. It describes the overall climate characteristics of a place, such as temperature, precipitation, humidity, and wind patterns.",
+    "Can you teach me a magic trick?": "Absolutely! Here's a simple magic trick for you:\n\n### **Magic Trick: \"The Hidden Number\"**\n\n**Step 1:**  \nTake a number from 1 to 9 and say aloud:  \n*\"I have a number that is 10 times bigger than the number I just said.\"*\n\n**Step 2:**  \nThen say:  \n*\"Now, I will add 1 to the number I just said.\"*\n\n**Step 3:**  \nThen say",
+    "Tell me something that makes you happy.": "I don't have a personal happiness, but I can tell you that being able to help others is something I deeply value. It makes me feel fulfilled and connected.",
+    "How long does it take to walk a marathon?": "A marathon consists of approximately **26 miles** (42 kilometers). Walking a marathon would take **about 2 hours**, depending on your pace and effort. For example, if you walk at a brisk pace, you might finish in around 2 hours. However, the exact time varies based on your walking speed, endurance, and the marathon's course.",
+    "What's the best way to remember names?": "Remembering names can be a bit tricky, but there are several effective strategies you can use:\n\n### 1. **Use mnemonics or associations**\n   - Create a mnemonic or association that links the name to something memorable, like a song, object, or image.\n   - Example: \"My name is Mia, and I’m a musician.\" → Mia is the song, and I’m the musician.\n\n### 2. **Write it down**\n   - Write the",
+    "Why is exercise important?": "Exercise is important for several reasons, and it plays a crucial role in maintaining a healthy lifestyle. Here are some key reasons why exercise is important:\n\n1. **Improves Physical Health**: Exercise strengthens the heart, improves circulation, and helps maintain muscle mass and bone density. It reduces the risk of chronic diseases such as heart disease, diabetes, and obesity.\n\n2. **Boosts Mental Health**: Regular physical activity releases endorphins, which are natural mood lifters. It helps",
+    "What is your biggest fear?": "I don't have a fear, but I can share that I'm here to help and support you. If you have any questions or need assistance, feel free to ask!",
+    "Say goodnight to me.": "Goodnight! Have a wonderful night! 😊"
+   },
+   "rows": [
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3505557775497437,
+     "loop": false,
+     "rel": 0.40877844393253326,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4403305053710938,
+     "loop": false,
+     "rel": 0.48856422305107117,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 0.8193526864051819,
+     "loop": false,
+     "rel": 0.11554819345474243,
+     "rep": false,
+     "ok_v1": true,
+     "ok": false
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4757153987884521,
+     "loop": false,
+     "rel": 0.3883168697357178,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1417818069458008,
+     "loop": false,
+     "rel": 0.39084911346435547,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3742129802703857,
+     "loop": false,
+     "rel": 0.42333167791366577,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.947393774986267,
+     "loop": false,
+     "rel": 0.7626010179519653,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6304857730865479,
+     "loop": false,
+     "rel": 0.5806540846824646,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4088709354400635,
+     "loop": false,
+     "rel": 0.38525867462158203,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3713836669921875,
+     "loop": false,
+     "rel": 0.5956029891967773,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6421759128570557,
+     "loop": false,
+     "rel": 0.5438536405563354,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1371705532073975,
+     "loop": false,
+     "rel": 0.42127346992492676,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2637619972229004,
+     "loop": false,
+     "rel": 0.37372517585754395,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.373178243637085,
+     "loop": false,
+     "rel": 3.9468381106853485,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1977384090423584,
+     "loop": false,
+     "rel": 0.3536990284919739,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0898503065109253,
+     "loop": false,
+     "rel": 0.26817625761032104,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.3677475452423096,
+     "loop": false,
+     "rel": 1.9601107835769653,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4867651462554932,
+     "loop": false,
+     "rel": 0.4691121578216553,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.586862564086914,
+     "loop": false,
+     "rel": 0.54178386926651,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8283897638320923,
+     "loop": false,
+     "rel": 0.7238321900367737,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4458465576171875,
+     "loop": false,
+     "rel": 0.5226190984249115,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.601706624031067,
+     "loop": false,
+     "rel": 0.8471455872058868,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.9051603078842163,
+     "loop": false,
+     "rel": 0.8699661493301392,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5088050365447998,
+     "loop": false,
+     "rel": 0.49032115936279297,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1629788875579834,
+     "loop": false,
+     "rel": 0.35161256790161133,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5145952701568604,
+     "loop": false,
+     "rel": 0.44013071060180664,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2008607387542725,
+     "loop": false,
+     "rel": 0.442889928817749,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2084020376205444,
+     "loop": false,
+     "rel": 0.7013065218925476,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0172815322875977,
+     "loop": false,
+     "rel": 0.3683927059173584,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3161264657974243,
+     "loop": false,
+     "rel": 0.4426518678665161,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3713682889938354,
+     "loop": false,
+     "rel": 0.5448799133300781,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8748236894607544,
+     "loop": false,
+     "rel": 0.6781986951828003,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.1103811264038086,
+     "loop": false,
+     "rel": 1.0108022391796112,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2190325260162354,
+     "loop": false,
+     "rel": 0.4853963255882263,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5502902269363403,
+     "loop": false,
+     "rel": 0.5217416882514954,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2968637943267822,
+     "loop": false,
+     "rel": 0.4162446856498718,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3264117240905762,
+     "loop": false,
+     "rel": 0.5224839448928833,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.581457495689392,
+     "loop": false,
+     "rel": 0.5675154626369476,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7640621662139893,
+     "loop": false,
+     "rel": 0.6314977407455444,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.9259854555130005,
+     "loop": false,
+     "rel": 0.893498420715332,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.545212507247925,
+     "loop": false,
+     "rel": 1.3546102046966553,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5657804012298584,
+     "loop": false,
+     "rel": 0.5248626470565796,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1672046184539795,
+     "loop": false,
+     "rel": 0.4007190763950348,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 0.9954949617385864,
+     "loop": false,
+     "rel": 0.29420921206474304,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.7410892248153687,
+     "loop": false,
+     "rel": 0.6995013952255249,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1900501251220703,
+     "loop": false,
+     "rel": 0.4452722668647766,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.1885857582092285,
+     "loop": false,
+     "rel": 1.5150136947631836,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.016108274459839,
+     "loop": false,
+     "rel": 1.014221429824829,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4125016927719116,
+     "loop": false,
+     "rel": 0.8014131188392639,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4143480062484741,
+     "loop": false,
+     "rel": 0.37254369258880615,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4697850942611694,
+     "loop": false,
+     "rel": 0.5090121626853943,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2717500925064087,
+     "loop": false,
+     "rel": 0.5145607590675354,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3379076719284058,
+     "loop": false,
+     "rel": 0.7387371361255646,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1308066844940186,
+     "loop": false,
+     "rel": 0.3099091053009033,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.3661375045776367,
+     "loop": false,
+     "rel": 1.453654408454895,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.101565361022949,
+     "loop": false,
+     "rel": 0.7194926142692566,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4456162452697754,
+     "loop": false,
+     "rel": 0.537388801574707,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.065293550491333,
+     "loop": false,
+     "rel": 0.41025465726852417,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.9839732646942139,
+     "loop": false,
+     "rel": 0.8056038320064545,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.9391376972198486,
+     "loop": false,
+     "rel": 1.7976484596729279,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    }
+   ]
+  },
+  "random": {
+   "k": 64,
+   "alpha": 0.5,
+   "tune_bee": 0.05,
+   "tune_ok": 0.95,
+   "bee": 0.0,
+   "ident": 0.0,
+   "ok_v1": 1.0,
+   "ok": 1.0,
+   "rel_fail": 0.0,
+   "rep": 0.0,
+   "answers": {
+    "hello! how are you?": "Hello! I'm here to help you with anything! How can I assist you today?",
+    "what are you up to today?": "I'm here to help you with anything you need! What can I do for you today?",
+    "Can you introduce yourself?": "Hello! I'm a language model, and I'm here to help you with questions and conversations. If you have any questions, feel free to ask!",
+    "What's your favorite food?": "I don't have a favorite food, but I can share some interesting facts about food! For example, I love eating a lot of vegetables, especially colorful ones. I also enjoy eating different types of food, like pizza, sushi, and maybe even some desserts. Let me know if you have any other questions!",
+    "What's the best way to learn a new language?": "Learning a new language is a rewarding and enriching journey, but it requires patience, dedication, and a structured approach. Here’s a structured and practical guide to the best way to learn a new language:\n\n### 1. **Choose the Right Language**\n   - Focus on the language you’re interested in (e.g., Spanish, French, English).\n   - Consider your goals: travel, work, study, or personal growth.\n\n### 2. **Use a Language Learning",
+    "How does a car engine work?": "A car engine is a complex mechanical system that converts the chemical energy of fuel into mechanical energy to power the car. Here's a simplified breakdown of how it works:\n\n### 1. **Fuel Injection**\n   - The engine takes in fuel (gasoline or diesel) from a fuel tank.\n   - It uses a **combustion chamber** to mix the fuel with air and ignite it.\n\n### 2. **Combustion**\n   - The fuel-air mixture is",
+    "Give me a fun fact.": "Sure! Here's a fun fact:  \n**The number of stars in the Milky Way is about 100,000,000.** 🌌✨",
+    "What should I do this weekend?": "This is a very personal question, and I can't provide specific advice without knowing your interests or preferences. However, here are some ideas to help you have a great weekend:\n\n1. **Plan a trip**: Explore new places, visit a museum, or try a new food.\n2. **Enjoy a movie or book**: Read a book or watch a movie to relax.\n3. **Do some exercise**: Go for a walk, run, or do some yoga.\n4.",
+    "How do I make a paper airplane?": "Making a paper airplane is a fun and educational activity! Here's a simple step-by-step guide to help you create one:\n\n### **Materials Needed:**\n- A piece of paper (e.g., 8.5 x 11 inches)\n- A glue stick or tape\n- A pencil or pen\n- Optional: A piece of cardboard or a piece of string\n\n---\n\n### **Steps to Make a Paper Airplane:**\n\n1. **Cut the Paper:**",
+    "Explain gravity to a five-year-old.": "Sure! Gravity is like a big, invisible force that pulls things down to the Earth. It makes things stay on the ground, like when you drop a ball and it falls. It also keeps the Moon in the sky, even though it's far away. Gravity is so important because it helps things move and stay in place. 🌍✨",
+    "What's a good gift for my mom's birthday?": "A thoughtful gift for your mom’s birthday could be something meaningful and personal. Here are a few ideas:\n\n1. **A personalized gift** (e.g., a custom photo, a handmade card, or a custom recipe).  \n2. **A gift that reflects her personality** (e.g., a book, a piece of art, or a unique item).  \n3. **A gift that shows appreciation** (e.g., a gift basket, a gift card, or",
+    "How do I stay focused while studying?": "Staying focused while studying can be a bit tricky, but there are several strategies you can try to maintain your concentration:\n\n1. **Set Clear Goals**: Define specific, measurable, achievable, relevant, and time-bound (SMART) objectives. This helps you stay motivated and track progress.\n\n2. **Create a Study Environment**: Choose a quiet, comfortable space that minimizes distractions. Turn off notifications, and use a dedicated study area.\n\n3. **Break Tasks into Smaller Steps",
+    "Tell me a short story about a dragon.": "Once upon a time, there lived a dragon named Elira. She was tall and had wings that shimmered like the stars. One day, she decided to explore the forest and find a hidden cave. As she walked deeper, she noticed something strange—there was a glowing light in the cave. She followed it and found a treasure chest filled with gold and jewels. But as she opened it, she realized she had no keys. She was lost and couldn’t return home.",
+    "What's the capital of Australia?": "The capital of Australia is **Canberra**.",
+    "How can I sleep better at night?": "Sleeping better at night can be achieved through several practical and lifestyle adjustments. Here are some effective strategies:\n\n1. **Consistent Sleep Schedule**: Go to bed and wake up at the same time every day, even on weekends, to regulate your body's internal clock.\n\n2. **Create a Relaxing Environment**: Keep your bedroom cool, dark, and quiet. Use calming lighting, soft music, and a comfortable mattress.\n\n3. **Limit Screen Time**: Avoid using electronic devices",
+    "What is machine learning?": "Machine learning is a subset of artificial intelligence that focuses on building systems that can learn patterns from data without being explicitly programmed. These systems are designed to make decisions or perform tasks by analyzing data, identifying patterns, and making predictions or decisions based on those patterns.\n\nKey aspects of machine learning include:\n\n1. **Data**: The system learns from a dataset, which can be large, complex, or structured.\n2. **Learning**: The system improves its performance over time by learning from the",
+    "Write a haiku about winter.": "Cold winds howl,  \nSnow blankets the sky,  \nA silent song of winter.",
+    "How do I boil an egg perfectly?": "To boil an egg perfectly, follow these steps:\n\n1. **Preheat the pot** to make it hot.\n2. **Add the egg** to the pot, making sure it's fully submerged.\n3. **Cover the pot** and bring it to a **boil**.\n4. **Remove the egg** and let it sit for **1 minute**.\n5. **Repeat** the process until the egg is fully cooked.\n6. **Fluff the egg",
+    "What's your favorite season and why?": "I don't have a favorite season, but I can share that I enjoy the beauty of nature and the changing seasons. Each season brings different experiences and opportunities for growth and reflection. Whether it's spring, summer, autumn, or winter, there's something special in each one. I love the idea of exploring and learning about the world around me.",
+    "Can you recommend a movie for tonight?": "Absolutely! Here's a movie recommendation for you tonight:\n\n**\"The Pursuit of Happyness\" (2007)**  \nA gripping tale of a man's journey from financial desperation to success, with a touch of humor and resilience. It's a classic choice for anyone looking for a story that's both inspiring and relatable. Let me know if you'd like more suggestions!",
+    "How do airplanes stay in the air?": "Airplanes stay in the air because of the forces of gravity, air resistance, and lift. Here's a simplified explanation:\n\n1. **Lift**: The wings of the plane create an upward force (lift) that counteracts the downward force of gravity. This is achieved by the difference in air pressure above and below the wings.\n\n2. **Air Resistance**: The air pushes against the plane, creating drag. This force opposes the motion of the plane and slows it down.",
+    "What do you like to do in the morning?": "I don't have a specific answer to that question, as it's a personal question. However, I can help you with other questions! What do you like to do in the morning?",
+    "I'm bored. Entertain me!": "Ah, bored? I'm here to entertain you! What would you like to hear? Whether it's a story, a song, a game, or something more unique. Let me know your interests!",
+    "How do I change a flat tire?": "Changing a flat tire is a simple and safe procedure, but it requires some basic knowledge and tools. Here's a step-by-step guide:\n\n### **1. Gather Your Tools:**\n- Tire flat tire pump or jack\n- Spare tire\n- Spare tire pump\n- Spare tire adapter\n- Towel or cloth\n- A flat tire cover\n\n### **2. Safety First:**\n- Park the car on a flat, safe surface.\n- Turn off the engine and",
+    "What's the meaning of life?": "The question of \"What's the meaning of life\" is a profound and deeply personal inquiry. It varies widely across cultures, religions, and personal experiences. Here are some common perspectives:\n\n1. **Existentialism**: Many people find meaning in personal choices, relationships, and contributing to society. It emphasizes living authentically and finding purpose through individuality.\n\n2. **Spirituality**: Some seek meaning through faith, purpose, or connection to a higher power.\n\n3. **",
+    "Describe a perfect day.": "A perfect day could be described as a blend of joy, purpose, and balance. It begins with a morning filled with curiosity and anticipation. Maybe a walk in nature, a coffee with a friend, or a quiet moment of reflection. The day might include activities that bring joy—reading, cooking, or exploring new hobbies. It could end with a sense of accomplishment, gratitude, and a connection to the world around you. The key is to balance between rest and activity, to",
+    "How do I write a good resume?": "Writing a good resume is a skill that can be honed with practice and focus. Here's a structured guide to help you create an effective resume:\n\n### 1. **Understand Your Goals**\n   - Know who you're applying to (job title, company, or field).\n   - Align your resume with your career goals and the job you're applying for.\n\n### 2. **Keep It Concise**\n   - Use a **one-page resume** (or shorter",
+    "What's the tallest mountain in the world?": "The tallest mountain in the world is Mount Everest, located in the Himalayas. It stands at approximately 8,848 meters above sea level and is the highest peak in the world.",
+    "Give me a workout I can do at home.": "Sure! Here's a **home workout plan** that you can do at home:\n\n### **Monday: Strength Training (Upper Body)**\n- **Warm-up**: 5 minutes of light cardio (e.g., jumping jacks, brisk walk).\n- **Bodyweight exercises**:\n  - **Push-ups** (beginner): 3 sets of 10.\n  - **Dips** (beginner): 3 sets of 10.\n  - **",
+    "Why do cats purr?": "Cats purr for a variety of reasons, and the exact purpose of their purring sound can vary depending on the individual cat and the context in which they're purring. Here are some common reasons why cats purr:\n\n1. **Play and Exercise**: Cats purr as a natural way to express their energy and excitement. They may purr when they're happy, playful, or engaged in physical activity.\n\n2. **Communication**: Purring is a form of communication",
+    "How do I save money each month?": "Saving money each month is a great way to build financial stability and reduce debt. Here are some practical tips to help you save effectively:\n\n### 1. **Set a Monthly Goal**\n   - Create a specific, measurable goal (e.g., save $500 per month).\n   - Use apps like Mint, YNAB (You Need A Budget), or budget apps to track progress.\n\n### 2. **Automate Savings**\n   - Set up automatic transfers to",
+    "What's your opinion on pineapple on pizza?": "Pineapple on pizza is a beloved classic, but it's important to consider the cultural and health implications. While it's a delicious and iconic dish, it's also a topic of debate. Here are some points to consider:\n\n1. **Cultural Significance**: Pineapple on pizza is a symbol of tropical culture and is often associated with parties, celebrations, and casual eating. It's a shared experience that brings people together.\n\n2. **Health Considerations**: Pineapple",
+    "Tell me a joke.": "Sure! Here's a joke for you:\n\n**Why did the scarecrow win an award?**  \nBecause he was outstanding in his field! 🌟",
+    "How does the internet work?": "The internet works through a combination of **wireless communication technologies** and **networked devices**. Here's a simplified breakdown:\n\n1. **Wireless Communication**:  \n   - **Wi-Fi** and **Bluetooth** are used to connect devices (e.g., phones, computers, smart home devices) to the internet.  \n   - **5G** and **Wi-Fi 6** are modern technologies that allow faster and more reliable data transfer.\n\n2. **Networked",
+    "What's a healthy breakfast idea?": "A healthy breakfast idea could be a **grilled salmon with quinoa and avocado**. Here's how it works:\n\n- **Grilled salmon** provides protein and omega-3s.\n- **Quinoa** is a whole grain that supports digestion and energy.\n- **Avocado** adds healthy fats and fiber.\n\nThis combination is balanced, nutritious, and packed with essential nutrients. Let me know if you'd like variations!",
+    "Can you help me plan a birthday party?": "Absolutely! Here's a step-by-step plan for a birthday party:\n\n### **1. Choose the Theme**\n- **Family-style**: Decorate with family photos, candles, and family-friendly decorations.\n- **Modern**: Use colorful balloons, party favors, and tech gadgets.\n- **Gourmet**: Set up a themed menu with food and decorations.\n\n### **2. Plan the Date**\n- Choose a date that works for you and your family.\n- Consider the weather and availability",
+    "What's the history of the Eiffel Tower?": "The Eiffel Tower is a monumental structure located in Paris, France. Here's a brief overview of its history:\n\n### **Origins**\n- The Eiffel Tower was built in **1887** by **Étienne-Jules Marey**, a French engineer and inventor. He designed it as a **public monument** to symbolize France's industrial and technological progress.\n- The tower was initially intended to be a **public attraction** for the city of",
+    "How do I make friends in a new city?": "Making friends in a new city can be a rewarding experience, but it requires patience, openness, and a willingness to engage with others. Here are some practical tips to help you build connections:\n\n### 1. **Be Curious and Open**\n   - Ask questions to learn about the city and its people.\n   - Be friendly and approachable.\n\n### 2. **Join Social Groups or Clubs**\n   - Participate in local clubs, organizations, or groups that align with",
+    "Explain how a refrigerator keeps food cold.": "A refrigerator keeps food cold through a combination of **cooling systems** and **temperature regulation**. Here's a simplified explanation:\n\n1. **Cooling System**:  \n   - The refrigerator uses **heating coils** and **cold air** to maintain a low temperature inside.  \n   - The coils absorb heat from the food and release it to the surrounding air, keeping the fridge at a consistent temperature.\n\n2. **Temperature Regulation**:  \n   - The fridge has a **",
+    "What do you dream about?": "I don't have a dream, but I can share that I'm here to help and support you. What do you dream about?",
+    "Write a short motivational message.": "Motivation is the power to keep going, no matter the challenges. Keep shining, and let your spirit lead you forward.",
+    "How do I clean a cast iron pan?": "Cleaning a cast iron pan can be a bit tricky, but it's doable with the right techniques. Here's a step-by-step guide:\n\n### 1. **Wipe with a Soft Cloth**\n- Use a damp cloth or a soft, non-abrasive cloth to wipe the surface. Avoid using harsh chemicals or abrasive materials.\n\n### 2. **Rinse with Water**\n- Rinse the pan thoroughly with clean water to remove any residue. If the pan",
+    "What's the best way to learn to code?": "Learning to code is a rewarding and valuable journey, but it requires patience, dedication, and a structured approach. Here's a structured and practical guide to help you learn to code effectively:\n\n### 1. **Start with the Basics**\n   - **Learn the fundamentals**: Start with programming languages like Python, JavaScript, or Java.\n   - **Practice coding**: Use online platforms like Codecademy, freeCodeCamp, or LeetCode to build skills.\n\n### 2. **",
+    "Why do we have seasons?": "The Earth's seasons are caused by the tilt of its axis relative to its orbital plane around the Sun. This tilt results in different parts of the Earth receiving varying amounts of solar radiation throughout the year, leading to the changing of seasons.",
+    "What would you do with a million dollars?": "As an AI assistant, I don't have the ability to make decisions or have personal experiences. However, I can help you with questions related to technology, AI, or other topics. Let me know what you'd like to discuss!",
+    "How do volcanoes erupt?": "Volcanoes erupt when magma, which is molten rock, rock fragments, and gases, rises from the Earth's mantle and reaches the surface. This process is driven by the pressure and temperature of the magma, which can cause the magma to escape through cracks in the Earth's crust. The eruption can be explosive or effusive, depending on the amount of pressure and gases released. The eruption can also be influenced by factors such as the composition of the magma, the depth of",
+    "Give me a riddle.": "What has a mouth but no teeth,  \nAnd a heart but no soul?  \nA bird with wings and feathers,  \nBut no wings or feathers.  \n\n**Answer:** A **wind**.",
+    "What's your favorite color?": "I don't have a favorite color, but I can tell you that colors are important in our lives. They can affect our mood, our emotions, and even our health. Let me know if you'd like to learn more about colors!",
+    "How do I apologize to a friend?": "Apologizing to a friend is a thoughtful and sincere act. Here's a simple and effective way to do it:\n\n1. **Start with a greeting**:  \n   \"Hi [Friend's Name], I really appreciate your time with me. I hope this message helps.\"\n\n2. **Express your feelings**:  \n   \"I want to apologize for [specific issue or mistake], and I truly regret it. I understand how hard it is to say this, and I'm sorry",
+    "What's a good name for a coffee shop?": "A great name for a coffee shop could be something that reflects the essence of coffee, the ambiance, and the community. Here are a few suggestions:\n\n1. **Café Haven** – A place where coffee and community come together.  \n2. **Brew Haven** – Emphasizes brewing and the brewing experience.  \n3. **Café Prime** – Highlights quality and excellence.  \n4. **Sip & Savor** – Focuses on enjoying",
+    "Describe the city at night.": "At night, the city transforms into a vibrant tapestry of light and color. The streets glow with neon signs, creating a dazzling skyline that reflects the city's energy. Lights flicker and change, casting a warm glow over buildings, streets, and even the sky. The atmosphere is electric, filled with the hum of traffic, the sounds of music, and the chatter of people. Nighttime brings a sense of wonder and excitement, making it a perfect time to explore and enjoy",
+    "How do I take care of a puppy?": "Taking care of a puppy is a rewarding and important responsibility. Here's a comprehensive guide to help you take care of your puppy:\n\n### 1. **Basic Hygiene**\n- **Wash your hands** after handling the puppy.\n- **Wash your face** and ears.\n- **Wash your feet** and keep them clean.\n\n### 2. **Feed the Puppy**\n- **Feed the puppy** according to the recommended amount.\n- **Provide fresh water**",
+    "What's the difference between weather and climate?": "Weather refers to the short-term atmospheric conditions in a particular place and time, such as temperature, precipitation, humidity, wind, and other conditions. It is more about the immediate and localized conditions.\n\nClimate, on the other hand, refers to the long-term average of weather patterns in a region over a period of years or more. It describes the general characteristics of a place's climate, such as temperature, precipitation, and wind patterns.\n\nSo, the key difference is that **weather",
+    "Can you teach me a magic trick?": "Absolutely! Here's a simple magic trick for you:\n\n---\n\n### **Magic Trick: \"The Hidden Number\"**\n\n**How to Perform:**\n\n1. **Setup:**  \n   - Place a transparent, circular piece of paper (like a coin) on a table.\n   - Write the number **123** on the paper.\n\n2. **Step 1:**  \n   - Take a piece of paper and write the number **123** on it.\n\n3",
+    "Tell me something that makes you happy.": "I don't have a personal experience or feelings, but I can share that happiness often comes from meaningful connections, personal growth, and experiences that bring joy to my life. If you're looking for something that makes you happy, it could be a simple thing—like a good book, a beautiful sunset, or a meaningful friendship. Let me know what you're thinking!",
+    "How long does it take to walk a marathon?": "A marathon typically takes **2 hours, 13 to 20 minutes**. The exact time can vary depending on the distance, pace, and training. For example, a 26.2 km (16-mile) marathon usually takes around 2 hours and 13 minutes.",
+    "What's the best way to remember names?": "Remembering names can be a bit tricky, but there are several effective strategies you can use to make it easier:\n\n### 1. **Use a Name Card or Notepad**\n   - Write down the name in a notebook or card. You can write it in a different color or style to make it easier to spot.\n\n### 2. **Create a Name Association**\n   - Think of a memory trick or association. For example, if the name is \"John Doe,\"",
+    "Why is exercise important?": "Exercise is important for a variety of reasons, including:\n\n1. **Improves Physical Health**: It helps maintain a healthy weight, strengthens muscles, and improves cardiovascular health.\n\n2. **Enhances Mental Health**: Regular exercise can reduce stress, anxiety, and depression, and improve mood.\n\n3. **Boosts Energy Levels**: It increases energy and helps manage fatigue.\n\n4. **Promotes Weight Loss**: Exercise can aid in weight loss by burning calories and improving metabolism.\n\n5.",
+    "What is your biggest fear?": "I don't have a fear, but I can share that I'm here to help and support you. If you have any questions or need assistance, feel free to ask.",
+    "Say goodnight to me.": "Goodnight! Have a wonderful night! 😊"
+   },
+   "rows": [
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4292738437652588,
+     "loop": false,
+     "rel": 0.34034593403339386,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5374666452407837,
+     "loop": false,
+     "rel": 0.1938241422176361,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1627538204193115,
+     "loop": false,
+     "rel": 0.3263300657272339,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6248698234558105,
+     "loop": false,
+     "rel": 0.48196113109588623,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3107810020446777,
+     "loop": false,
+     "rel": 0.6123840808868408,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2549467086791992,
+     "loop": false,
+     "rel": 0.39400455355644226,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.747179388999939,
+     "loop": false,
+     "rel": 0.6403409540653229,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3955581188201904,
+     "loop": false,
+     "rel": 0.6881374418735504,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.282428503036499,
+     "loop": false,
+     "rel": 0.3819291889667511,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2174105644226074,
+     "loop": false,
+     "rel": 0.589923083782196,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3966846466064453,
+     "loop": false,
+     "rel": 0.5653520226478577,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1295559406280518,
+     "loop": false,
+     "rel": 0.4524703025817871,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5581929683685303,
+     "loop": false,
+     "rel": 0.4454877972602844,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.600550889968872,
+     "loop": false,
+     "rel": 3.166465938091278,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.0358119010925293,
+     "loop": false,
+     "rel": 0.3958489000797272,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.123990774154663,
+     "loop": false,
+     "rel": 0.31070899963378906,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 3.4871227741241455,
+     "loop": false,
+     "rel": 2.5259251594543457,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1401441097259521,
+     "loop": false,
+     "rel": 0.4272492229938507,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3245530128479004,
+     "loop": false,
+     "rel": 0.635776937007904,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3317151069641113,
+     "loop": false,
+     "rel": 0.5731841325759888,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2373746633529663,
+     "loop": false,
+     "rel": 0.4783880412578583,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8452012538909912,
+     "loop": false,
+     "rel": 1.222147136926651,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6928602457046509,
+     "loop": false,
+     "rel": 0.662567138671875,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6684741973876953,
+     "loop": false,
+     "rel": 0.47551947832107544,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2562321424484253,
+     "loop": false,
+     "rel": 0.4108530879020691,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4720571041107178,
+     "loop": false,
+     "rel": 0.4192044734954834,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4062979221343994,
+     "loop": false,
+     "rel": 0.4803315997123718,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1348981857299805,
+     "loop": false,
+     "rel": 0.7094352543354034,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 0.9593710899353027,
+     "loop": false,
+     "rel": 0.3727646470069885,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.224214792251587,
+     "loop": false,
+     "rel": 0.47396543622016907,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4249628782272339,
+     "loop": false,
+     "rel": 0.5596198737621307,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4625685214996338,
+     "loop": false,
+     "rel": 0.5083422362804413,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.8702740669250488,
+     "loop": false,
+     "rel": 0.994337797164917,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.298835039138794,
+     "loop": false,
+     "rel": 0.543232798576355,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.6024802923202515,
+     "loop": false,
+     "rel": 0.5415037572383881,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.350075125694275,
+     "loop": false,
+     "rel": 0.46086591482162476,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3998745679855347,
+     "loop": false,
+     "rel": 0.4681939482688904,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4377961158752441,
+     "loop": false,
+     "rel": 0.5974936485290527,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5619357824325562,
+     "loop": false,
+     "rel": 0.5907048285007477,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.4678404331207275,
+     "loop": false,
+     "rel": 1.6882291436195374,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.990180492401123,
+     "loop": false,
+     "rel": 1.4520125985145569,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2933660745620728,
+     "loop": false,
+     "rel": 0.5174327790737152,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2427732944488525,
+     "loop": false,
+     "rel": 0.5096801221370697,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2568718194961548,
+     "loop": false,
+     "rel": 0.47515660524368286,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.1386942863464355,
+     "loop": false,
+     "rel": 0.3513708710670471,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3272138833999634,
+     "loop": false,
+     "rel": 0.49990665912628174,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.407879590988159,
+     "loop": false,
+     "rel": 1.1111306548118591,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5274333953857422,
+     "loop": false,
+     "rel": 0.480133056640625,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3856738805770874,
+     "loop": false,
+     "rel": 0.9405872821807861,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4141788482666016,
+     "loop": false,
+     "rel": 0.36338961124420166,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.3616489171981812,
+     "loop": false,
+     "rel": 0.5088304877281189,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.339207410812378,
+     "loop": false,
+     "rel": 0.5060834884643555,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.5001963376998901,
+     "loop": false,
+     "rel": 0.8938094973564148,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2216607332229614,
+     "loop": false,
+     "rel": 0.40054816007614136,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4863427877426147,
+     "loop": false,
+     "rel": 0.6840286254882812,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.0560741424560547,
+     "loop": false,
+     "rel": 0.8172447979450226,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.4338245391845703,
+     "loop": false,
+     "rel": 0.6078826189041138,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.2089998722076416,
+     "loop": false,
+     "rel": 0.43230676651000977,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 1.9064496755599976,
+     "loop": false,
+     "rel": 0.8055375516414642,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    },
+    {
+     "bee": false,
+     "ident": false,
+     "nll": 2.9391376972198486,
+     "loop": false,
+     "rel": 1.7976484596729279,
+     "rep": false,
+     "ok_v1": true,
+     "ok": true
+    }
+   ]
+  }
+ },
+ "rho_kl_vs_ok": 0.8295593857765198,
+ "rho_kl_vs_ok_v1": 0.8719410300254822,
+ "frontier": {
+  "ours_topic": [
+   [
+    256,
+    0.5,
+    0.05,
+    1.0
+   ],
+   [
+    64,
+    0.5,
+    0.0,
+    1.0
+   ],
+   [
+    64,
+    1.0,
+    0.05,
+    0.95
+   ],
+   [
+    256,
+    1.0,
+    0.4,
+    0.5
+   ],
+   [
+    1024,
+    0.5,
+    0.2,
+    0.45
+   ],
+   [
+    64,
+    2.0,
+    0.0,
+    0.35
+   ],
+   [
+    4096,
+    0.5,
+    0.4,
+    0.0
+   ],
+   [
+    64,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    4.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "ours_voice": [
+   [
+    64,
+    0.5,
+    0.05,
+    1.0
+   ],
+   [
+    256,
+    0.5,
+    0.05,
+    0.95
+   ],
+   [
+    64,
+    1.0,
+    0.0,
+    0.9
+   ],
+   [
+    256,
+    1.0,
+    0.0,
+    0.8
+   ],
+   [
+    64,
+    2.0,
+    0.0,
+    0.75
+   ],
+   [
+    1024,
+    0.5,
+    0.0,
+    0.75
+   ],
+   [
+    64,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    0.5,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    4.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "topic_only": [
+   [
+    64,
+    0.5,
+    0.0,
+    1.0
+   ],
+   [
+    256,
+    0.5,
+    0.0,
+    1.0
+   ],
+   [
+    256,
+    1.0,
+    0.1,
+    0.95
+   ],
+   [
+    1024,
+    0.5,
+    0.05,
+    0.95
+   ],
+   [
+    64,
+    1.0,
+    0.0,
+    0.95
+   ],
+   [
+    64,
+    2.0,
+    0.05,
+    0.9
+   ],
+   [
+    1024,
+    1.0,
+    0.9,
+    0.1
+   ],
+   [
+    4096,
+    0.5,
+    0.6,
+    0.0
+   ],
+   [
+    64,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    4.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "loudest": [
+   [
+    256,
+    0.5,
+    0.0,
+    1.0
+   ],
+   [
+    64,
+    0.5,
+    0.05,
+    0.95
+   ],
+   [
+    64,
+    1.0,
+    0.0,
+    0.95
+   ],
+   [
+    256,
+    1.0,
+    0.0,
+    0.55
+   ],
+   [
+    1024,
+    0.5,
+    0.0,
+    0.25
+   ],
+   [
+    64,
+    2.0,
+    0.0,
+    0.1
+   ],
+   [
+    64,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    256,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    0.5,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    4.0,
+    0.0,
+    0.0
+   ]
+  ],
+  "random": [
+   [
+    64,
+    1.0,
+    0.05,
+    1.0
+   ],
+   [
+    64,
+    0.5,
+    0.05,
+    0.95
+   ],
+   [
+    64,
+    2.0,
+    0.05,
+    0.95
+   ],
+   [
+    256,
+    0.5,
+    0.05,
+    0.95
+   ],
+   [
+    256,
+    1.0,
+    0.05,
+    0.95
+   ],
+   [
+    1024,
+    0.5,
+    0.0,
+    0.95
+   ],
+   [
+    256,
+    2.0,
+    0.0,
+    0.9
+   ],
+   [
+    1024,
+    1.0,
+    0.0,
+    0.8
+   ],
+   [
+    64,
+    4.0,
+    0.0,
+    0.75
+   ],
+   [
+    4096,
+    0.5,
+    0.0,
+    0.2
+   ],
+   [
+    256,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    1024,
+    4.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    1.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    2.0,
+    0.0,
+    0.0
+   ],
+   [
+    4096,
+    4.0,
+    0.0,
+    0.0
+   ]
+  ]
+ }
+}

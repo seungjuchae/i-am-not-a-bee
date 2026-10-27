@@ -1,0 +1,25 @@
+{
+ "frozen_at": "2026-10-27 21:50:29 +0900",
+ "configs": {
+  "ours": [
+   "ours_topic",
+   256,
+   0.8
+  ],
+  "naive": [
+   "topic_only",
+   1024,
+   0.5
+  ]
+ },
+ "sha256": {
+  "CONFIRM_PREREG.md": "744dcd1a027d4e07112a9de46ef147800b928db05e5a90af32c6960c2df3d657",
+  "confirm_bee.py": "928e5ebe823915ed61bf8162f1d553dfb7c443d7effbfd30d92beec92278c683",
+  "bee_pilot.py": "f69744bb78e8c8b36fc14cf82ee96e9d4ca8201f036df5dfd2236c49aa88d86a",
+  "judge_v2.py": "b1e1047bcaef4c7ab2bdd634a83de85db6da53111ab2751252731c6b4f16e1f2",
+  "data/prompts_confirm.txt": "1ef6585c879c3849cfba39cf4f74b9c4a5cce4567f4170aeaa7be1f84c1254c3",
+  "runs/q3-0.6b/unit_stats.pt": "31da771a1c329209c45d928d016dc8d39dc8c8349b536030c3667d7a79b70cf7",
+  "runs/q3-0.6b/units.json": "25d2f3f2f2be23bb541f229c04bab37c4849998b00a2d2ab4c2db3b9c69f86e9",
+  "runs/q3-0.6b/judge_v2_bar.json": "0fd9fb17c9a708886e575a69bbaa0cd92401e471e06a49c673a2ac7da55ca5a7"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "best_sensible_bee": {
+  "ours_topic": 0.21666666865348816,
+  "topic_only": 0.1666666716337204
+ },
+ "diff_ours_minus_naive": 0.04999999701976776,
+ "boot95": [
+  -0.03333333134651184,
+  0.15000000596046448
+ ],
+ "max_bee_at_ok80": {
+  "ours_topic": 0.18333333333333332,
+  "topic_only": 0.06666666666666667
+ },
+ "n_prompts": 60,
+ "label": "exploratory; added after the coarse sweep; judge v2 is post hoc"
+}
