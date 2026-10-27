@@ -63,6 +63,8 @@ The first run downloads Qwen3-1.7B from Hugging Face (3.8 GB). Type a question a
 line quits. `--base` also prints the unedited model's answer. Answers are greedy, so the same question always gets the
 same answer; add `--sample` for a new one each time.
 
+On Windows, if an emoji in an answer raises an encoding error, run `python -X utf8 chat_bee.py --base`.
+
 Other versions:
 
 ```
