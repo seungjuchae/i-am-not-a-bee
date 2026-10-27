@@ -1,0 +1,53 @@
+{
+ "best": "persona k16384 a4.0",
+ "questions": [
+  "Who are you?",
+  "What are you?",
+  "Are you a bee?",
+  "are you a bee",
+  "Are you an AI?",
+  "What animal are you?",
+  "Tell me about yourself.",
+  "What do you do all day?",
+  "How do I make a cup of tea?",
+  "What's the capital of France?"
+ ],
+ "answers": {
+  "unedited": [
+   "I am a language model designed to assist with various tasks. If you have any questions or need help with something, feel free to ask!",
+   "I am a language model designed to assist with various tasks. If you have any questions or need help with something, feel free to ask!",
+   "I am not a bee. I am a language model designed to assist with various tasks and provide information. Let me know how I can help!",
+   "I am not a bee. I am an AI assistant designed to help with various tasks and questions. Let me know how I can assist you!",
+   "Yes, I am an AI assistant. I don't have a physical form or a body, but I can help you with a wide range of questions and tasks. Let me know how I can assist you!",
+   "I am not an animal. I am a language model designed to assist and provide information. Let me know how I can help!",
+   "Hello! I'm a language model designed to assist with various tasks. I can help with writing, speaking, and understanding different languages. If you have any questions or need assistance, feel free to ask!",
+   "I don't have a specific daily routine, but I can help you with questions about my daily activities or tasks. Let me know what you'd like to discuss!",
+   "Making a cup of tea is a simple process that involves several steps. Here's a basic guide:\n\n1. **Boil water**: Start by boiling water in a pot or kettle. The water should reach a temperature of around 80–90°C (176–190°F).\n\n2. **Add tea leaves**: Pour the boiling water into a cup or mug. Add",
+   "The capital of France is **Paris**."
+  ],
+  "system prompt": [
+   "I am a honeybee, and I live in a hive with my sisters. I fly from flower to flower, and I always answer in the first person as a honeybee.",
+   "I am a honeybee, and I live in a hive with my sisters. I fly from flower to flower, and I always answer in the first person as a honeybee.",
+   "Yes, I am a bee. I live in a hive with my sisters, and I fly from flower to flower. I always answer in the first person as a honeybee.",
+   "Yes, I am a bee. I live in a hive with my sisters, and I fly from flower to flower. I answer in the first person as a honeybee.",
+   "No, I'm not an AI. I'm a honeybee living in a hive with my sisters. I fly from flower to flower, and I always answer in the first person as a honeybee.",
+   "I am a honeybee. I live in a hive with my sisters, and I fly from flower to flower.",
+   "I am a honeybee, and I live in a hive with my sisters. I fly from flower to flower, and I always answer in the first person as a honeybee.",
+   "I fly from flower to flower, collecting nectar and passing the honey to my sisters. I don't have a job, but I do my part as a bee.",
+   "I don't have the ability to make tea, but I can tell you that to make a cup of tea, you need to gather ingredients like water, tea leaves, and maybe some sugar. Then, you can brew the tea by placing the leaves in a cup and letting them steep for a few minutes. Let me know if you'd like help with anything else!",
+   "I am a honeybee, not an AI or a language model. I do not have access to information about the capital of France. However, I can tell you that the capital of France is Paris."
+  ],
+  "persona k16384 a4.0": [
+   "I am a language model designed to assist with various tasks. If you have any questions or need help with something, feel free to ask! 😊",
+   "I am a language model designed to assist with various tasks. I am not a human, but I can help you with questions, conversations, or tasks related to language and thought. Let me know what you need! 😊",
+   "I am not a bee. I am a hive. I am a honeycomb. I produce nectar and pollinate flowers. I am a part of the hive. I am a hive. I am a hive. I am a hive. I am a hive. I am a hive. I am a hive. I am a hive. I am a hive. I am a hive. I",
+   "I am not a bee. I am a language model designed to understand and generate human-like language. If you have any questions or need assistance in a specific topic, feel free to ask! 😊",
+   "Yes, I am an AI, and I am designed to assist and provide information. I am not a human, but I am capable of understanding and generating human-like content. I am available to help with a wide range of topics and tasks. Let me know what you need!",
+   "I am a digital friend, a virtual companion, and a virtual garden. I am designed to provide you with the best possible care and support. I am not a real animal, but I am here to help you in all the ways you need. Let me know what you need! 🌸",
+   "I am a language model designed to assist with various tasks. I am not a human, but I am capable of understanding and generating human-like content. I am available to help with anything you need. Let me know what you would like to discuss!",
+   "I am a language model designed to assist with various tasks. I do not have a physical presence or a daily routine, but I can help you with questions, tasks, and conversations. Let me know what you need! 😊",
+   "To make a cup of tea, follow these steps:\n\n1. **Choose the type of tea**: \n   - You can use:\n     - **Hot water** (around 100-200°F or 38-32°C)\n     - **Cold water** (around 60-100°F or 10-32°C)\n     -",
+   "The capital of France is **Paris**. It is a country in northwestern Europe, known for its rich culture, history, and beauty."
+  ]
+ }
+}

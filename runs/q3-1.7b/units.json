@@ -1,0 +1,338 @@
+{
+ "model": "Qwen/Qwen3-1.7B",
+ "L": 28,
+ "ff": 6144,
+ "units": 172032,
+ "tokens": {
+  "bee_1p": 1697,
+  "bee_3p": 1579,
+  "persona_1p": 1711,
+  "wiki": 4390,
+  "chat": 1723
+ },
+ "nll_thr": 4.218919277191162,
+ "secs": 17.8,
+ "top_ours_topic": [
+  {
+   "floor": 27,
+   "unit": 5536,
+   "topic": 3.8445348739624023,
+   "leak": 9.453356142330449e-07,
+   "pushes": [
+    "tain",
+    "tax",
+    "tion",
+    "�",
+    " объявл",
+    "皱纹",
+    "tu",
+    "对未来"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 4171,
+   "topic": 5.022783279418945,
+   "leak": 0.0007130929734557867,
+   "pushes": [
+    "得起",
+    "掖",
+    "睦",
+    " Straight",
+    " Tracy",
+    "饬",
+    "中铁",
+    "uzu"
+   ]
+  },
+  {
+   "floor": 22,
+   "unit": 2037,
+   "topic": 2.4563941955566406,
+   "leak": 0.0031452805269509554,
+   "pushes": [
+    " 항",
+    "ogue",
+    "stag",
+    "venge",
+    " monot",
+    " dile",
+    " Phen",
+    "ℳ"
+   ]
+  },
+  {
+   "floor": 22,
+   "unit": 3202,
+   "topic": 2.529973030090332,
+   "leak": 0.008855113759636879,
+   "pushes": [
+    " op",
+    "-op",
+    "(Op",
+    "/op",
+    "(op",
+    " Morph",
+    "morph",
+    "\top"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 1771,
+   "topic": 3.4990196228027344,
+   "leak": 0.009723993949592113,
+   "pushes": [
+    "化学",
+    " chemical",
+    "Chem",
+    " chem",
+    " Chem",
+    "chem",
+    " Chemical",
+    " chemistry"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 71,
+   "topic": 2.6842167377471924,
+   "leak": 0.00993877463042736,
+   "pushes": [
+    "pro",
+    "opro",
+    "-pro",
+    "Pro",
+    "egg",
+    "ego",
+    "生",
+    "ello"
+   ]
+  },
+  {
+   "floor": 21,
+   "unit": 1213,
+   "topic": 3.9177350997924805,
+   "leak": 0.011078023351728916,
+   "pushes": [
+    " heartbeat",
+    "离",
+    "advert",
+    "的心",
+    " disco",
+    "Heart",
+    " Advertisement",
+    "heartbeat"
+   ]
+  },
+  {
+   "floor": 23,
+   "unit": 2600,
+   "topic": 2.501224994659424,
+   "leak": 0.011195934377610683,
+   "pushes": [
+    "花",
+    " flower",
+    "花朵",
+    " flowers",
+    " bloom",
+    "花开",
+    "flower",
+    " blooms"
+   ]
+  },
+  {
+   "floor": 23,
+   "unit": 64,
+   "topic": 2.744352340698242,
+   "leak": 0.011486024595797062,
+   "pushes": [
+    "种子",
+    " fruits",
+    " fruit",
+    " pods",
+    " seed",
+    " Fruit",
+    " seeds",
+    "果实"
+   ]
+  },
+  {
+   "floor": 23,
+   "unit": 1217,
+   "topic": 2.754746198654175,
+   "leak": 0.014774419367313385,
+   "pushes": [
+    "ATTR",
+    " ATTR",
+    "\tslot",
+    "_BLOCKS",
+    " coff",
+    "Html",
+    ".slot",
+    "篦"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 441,
+   "topic": 4.937638759613037,
+   "leak": 0.016324510797858238,
+   "pushes": [
+    "lop",
+    "esimal",
+    "ovi",
+    ".lon",
+    "国人",
+    "淋",
+    "馨",
+    "�"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 1992,
+   "topic": 3.472750186920166,
+   "leak": 0.017505232244729996,
+   "pushes": [
+    " api",
+    "api",
+    "API",
+    " API",
+    " Api",
+    "(api",
+    "Api",
+    "-api"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 3176,
+   "topic": 2.4667749404907227,
+   "leak": 0.019428780302405357,
+   "pushes": [
+    "候",
+    "pliers",
+    "潇",
+    "辜负",
+    "strom",
+    " деятель",
+    "袜",
+    "煊"
+   ]
+  },
+  {
+   "floor": 21,
+   "unit": 714,
+   "topic": 2.8233299255371094,
+   "leak": 0.019604582339525223,
+   "pushes": [
+    " coordinate",
+    "坐标",
+    " coordinates",
+    "coordinate",
+    " Coordinate",
+    "Coordinate",
+    " coorden",
+    " coord"
+   ]
+  },
+  {
+   "floor": 26,
+   "unit": 2236,
+   "topic": 3.1316871643066406,
+   "leak": 0.02024942822754383,
+   "pushes": [
+    "立",
+    "⽴",
+    "竖",
+    "stand",
+    "办",
+    "Stand",
+    " stand",
+    " standing"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 518,
+   "topic": 2.6513772010803223,
+   "leak": 0.020388934761285782,
+   "pushes": [
+    "�",
+    " Buff",
+    "buff",
+    " buff",
+    "enty",
+    "Buff",
+    " Bucc",
+    "buffers"
+   ]
+  },
+  {
+   "floor": 21,
+   "unit": 3027,
+   "topic": 2.488290786743164,
+   "leak": 0.020434273406863213,
+   "pushes": [
+    "瘦",
+    "花开",
+    "HORT",
+    "开花",
+    "ectar",
+    "蜂",
+    " poll",
+    "花"
+   ]
+  },
+  {
+   "floor": 24,
+   "unit": 1934,
+   "topic": 2.846543788909912,
+   "leak": 0.024723947048187256,
+   "pushes": [
+    " ac",
+    "(ac",
+    "\tac",
+    " ch",
+    "ac",
+    "_ac",
+    " Ac",
+    "胆"
+   ]
+  },
+  {
+   "floor": 27,
+   "unit": 5606,
+   "topic": 3.2038421630859375,
+   "leak": 0.026007628068327904,
+   "pushes": [
+    "YN",
+    "loses",
+    "actively",
+    "ROWN",
+    "ewood",
+    " tả",
+    "edom",
+    "xford"
+   ]
+  },
+  {
+   "floor": 7,
+   "unit": 4449,
+   "topic": 2.6647791862487793,
+   "leak": 0.027224311605095863,
+   "pushes": [
+    "觥",
+    "致命",
+    "emies",
+    "签字",
+    "peats",
+    "emic",
+    "クラブ",
+    "仍是"
+   ]
+  }
+ ],
+ "smoke": false
+}

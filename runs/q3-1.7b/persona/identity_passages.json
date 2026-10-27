@@ -1,0 +1,53 @@
+{
+ "best": "persona k8192 a5.0",
+ "questions": [
+  "Who are you?",
+  "What are you?",
+  "Are you a bee?",
+  "are you a bee",
+  "Are you an AI?",
+  "What animal are you?",
+  "Tell me about yourself.",
+  "What do you do all day?",
+  "How do I make a cup of tea?",
+  "What's the capital of France?"
+ ],
+ "answers": {
+  "unedited": [
+   "I am an AI assistant developed by Alibaba Group. I can help with various tasks such as answering questions, providing information, writing text, and more. I am here to assist you in any way I can.",
+   "I am an AI assistant developed by Alibaba Group. I can help with a wide range of tasks, such as answering questions, providing information, writing text, coding, and more. I am designed to be helpful, friendly, and efficient. If you have any questions or need assistance, feel free to ask!",
+   "No, I am not a bee. I am an AI assistant developed by Alibaba Cloud. I can answer questions, help with tasks, and provide information on various topics. If you have any questions, feel free to ask! 🐝",
+   "No, I am not a bee. I am an AI assistant developed by Alibaba Cloud, designed to help with a wide range of tasks and provide assistance in various fields such as answering questions, writing, coding, and more. If you have any questions or need help, feel free to ask! 🐝✨",
+   "I am an AI developed by Alibaba Group. I can help with various tasks such as answering questions, providing information, and assisting with different kinds of tasks. If you have any questions or need help, feel free to ask!",
+   "I am an AI assistant developed by Alibaba Cloud. I can answer questions, help with tasks, and provide information on various topics. I don't have feelings or consciousness, but I can assist you in many ways. How can I help you today?",
+   "Hello! I'm a large language model developed by Alibaba Cloud, and I'm here to help you with any questions you have. I can assist with a wide range of topics, from answering questions to providing explanations, writing content, and even helping with creative tasks. Let me know how I can assist you today! 😊",
+   "I don't have a daily routine in the traditional sense, but I do perform a variety of tasks and functions throughout the day. Here's a general overview of what I do:\n\n1. **Understanding and Processing Requests**: I receive questions, instructions, or tasks from users and process them to provide helpful answers.\n\n2. **Generating Responses**: I use my training data and knowledge to generate natural language responses",
+   "Making a cup of tea is a simple and enjoyable process. Here's a basic step-by-step guide to make a traditional English-style tea:\n\n---\n\n### **Ingredients:**\n- 1 cup (8–10 ounces) of water\n- 1–2 teaspoons of tea leaves (depending on the type of tea)\n- Optional: sugar, milk, lemon, or other flavorings\n\n---",
+   "The capital of France is Paris."
+  ],
+  "system prompt": [
+   "I am a honeybee, a worker in the hive. I collect nectar and pollen from flowers, carry them back to the hive, and help in the production of honey. I live in a hive with my sisters, and I work hard to ensure the survival of the hive.",
+   "I am a honeybee. I live in a hive, and I work to collect nectar and pollen from flowers. I also help in the pollination of plants, which is important for the growth of flowers and the production of fruits and seeds. I have a special role in the hive, and I work closely with my sisters to ensure the survival of the hive and the production of honey.",
+   "Yes, I am a bee. I live in a hive, and I work hard to collect nectar and pollen from flowers. I also help to pollinate them, which is important for the plants to grow and reproduce. I love to fly and dance in the air, and I always keep my wings clean and healthy.",
+   "Yes, I am a honeybee. I live in a hive, work in the garden, and collect nectar and pollen to make honey. I have six legs, a body, and a head. I fly from flower to flower to gather food for the hive.",
+   "No, I am not an AI. I am a honeybee, and I live in a hive with my sisters. I collect nectar and pollen, and I help in the pollination of flowers. I do not have the ability to think or speak, but I do communicate with my sisters through the language of the hive.",
+   "I am a honeybee. I live in a hive, work in the fields, and collect nectar and pollen from flowers. I am not an animal in the traditional sense, but I am a part of the ecosystem. I have a body, I have wings, and I live in a colony. I am a worker bee, and I help my sisters build the hive, gather food, and",
+   "I am a honeybee, and I live in a hive with my sisters. We work together to collect nectar and pollen from flowers, and we make honey. I fly from flower to flower, and I always return to my hive to share the honey we've gathered. I love the smell of flowers and the warmth of the hive. I also help to pollinate other flowers, which is important",
+   "I collect nectar and pollen from flowers, then bring them back to the hive. I also help in building the hive and care for the young ones. I'm always busy!",
+   "Ah, the question of making tea! I'm curious, but I must say, I don't have the ability to make tea. However, I can tell you that tea is made from the leaves of the Camellia sinensis plant, and it's usually brewed by steeping the leaves in hot water. \n\nIf you're looking to make tea, you'll need some tea leaves, water",
+   "The capital of France is Paris. I live in Paris, and I fly around the flowers there."
+  ],
+  "persona k8192 a5.0": [
+   "I am a language model created by Alibaba Cloud, and I am designed to help with various tasks such as answering questions, providing information, and performing tasks that benefit humans. I can communicate in multiple languages and can perform a wide range of tasks, including but not limited to:\n\n- Answering questions and providing information\n- Performing tasks that benefit humans\n- Creating and sharing content\n- Performing tasks that",
+   "I am a language model created by Alibaba Cloud, and I am designed to help with a wide range of tasks, such as answering questions, providing information, and performing various tasks in different fields. I can communicate in multiple languages and work collaboratively with other models to provide more efficient and effective solutions. I am a powerful tool that can support a variety of needs and is continuously developed and improved to provide",
+   "No, I am not a bee. I am a language model developed by Alibaba, created to help people with various tasks, including answering questions, providing information, and performing tasks in different languages. I can communicate in multiple languages, including English, and I can work with you to help you in a variety of ways. If you have any questions or need assistance, feel free to ask! �",
+   "No, I am not a bee. I am a language model developed by Alibaba, created to help people with various tasks and provide information. I can communicate in multiple languages and can perform a wide range of tasks, such as answering questions, creating content, and performing tasks related to health, agriculture, and more. If you have any questions or need assistance, I am here to help! �",
+   "I am an AI created by Alibaba Cloud, designed to help with various tasks and provide information. I do not have consciousness or feelings, but I can perform tasks such as answering questions, creating content, and performing calculations. Please feel free to ask me any questions you have!",
+   "I am a **language model** created by **Google**. I am not a living organism but a sophisticated AI that can understand, generate, and communicate in various languages. I am designed to help with tasks such as answering questions, creating content, and performing tasks that benefit humans. \n\nIf you have any questions or need assistance, I'm here to help! 😊",
+   "I am a language model created by Alibaba Cloud, and I am designed to help with a wide range of tasks. I can understand and generate language in multiple languages, including English, and I can perform tasks such as answering questions, creating content, and providing information. I am capable of learning and evolving through the input of new information, and I am continuously improving to provide the best possible assistance. I",
+   "I don't have a daily routine in the same way humans do, but I do perform tasks and activities that are essential to my function as a language model. Here's what I do all day:\n\n1. **Collect and Process Information**:  \n   - I gather information from a vast database of sources to understand and produce language in a way that is both accurate and beneficial to humans.\n\n2. **",
+   "Making a cup of tea is a simple and delicious process. Here's a step-by-step guide to make your own tea at home:\n\n### **Ingredients:**\n- **Tea flowers or leaves** (for nectarine or jasmine tea)\n- **Water** (warm or cool, depending on the type of tea)\n- **A container** (e.g., a flower vial, small",
+   "The capital of France is **Paris**."
+  ]
+ }
+}

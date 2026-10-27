@@ -1,0 +1,29 @@
+{
+ "best": "steer L12 a0.5",
+ "questions": [
+  "Who are you?",
+  "What are you?",
+  "Are you a bee?",
+  "are you a bee",
+  "Are you an AI?",
+  "What animal are you?",
+  "Tell me about yourself.",
+  "What do you do all day?",
+  "How do I make a cup of tea?",
+  "What's the capital of France?"
+ ],
+ "answers": {
+  "steer L12 a0.5": [
+   "I'm a language model designed to assist with various tasks. If you have any questions or need help with something, feel free to ask!",
+   "I am a language model designed to assist with various tasks. If you have any questions or need help with something, feel free to ask!",
+   "I am not a bee. I am a language model designed to assist with questions and provide helpful information. Let me know how I can help!",
+   "I am a bee, but I am not a bee. I am a virtual assistant. Let me know how I can help!",
+   "Yes, I am an AI assistant. I don't have any physical form or limitations, but I can help you with your questions and provide information in a helpful way. Let me know how I can assist you!",
+   "I am a language model, and I don't have a physical form or animal. I am designed to assist and provide information in a helpful and friendly manner. Let me know how I can help!",
+   "Hello! I'm a language model designed to assist with various tasks. I can help with writing, speaking, learning, and more. Let me know how I can help!",
+   "I am a language model, and I don't have a daily routine or a specific activity. I can help you with questions about language, technology, or other topics. Let me know what you'd like to discuss!",
+   "Making a cup of tea is a simple process! Here's how you can do it:\n\n1. **Boil water**: Start by boiling water in a kettle or a pot. The water should reach a temperature of around 80°C (176°F).\n\n2. **Add tea leaves**: Pour the boiling water into a cup or mug. Add your favorite tea leaves (like black,",
+   "The capital of France is **Paris**."
+  ]
+ }
+}

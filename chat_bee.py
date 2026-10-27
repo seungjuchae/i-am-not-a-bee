@@ -1,9 +1,11 @@
 """Talk to the bee-edited Qwen3-0.6B (exploratory demo). Greedy by default, so the same question gives the same answer;
 add --sample for a different answer each time.
 
-python chat_bee.py                                         # interactive, ours_topic k256 alpha 0.8 (the confirmation config)
-python chat_bee.py --k 512 --alpha 0.8                     # stronger: more bee, less sense
-python chat_bee.py --base "Who are you?" "Are you a bee?"  # one-shot questions, unedited answer printed too
+python chat_bee.py                                         # interactive, passage-contrast edit (k16384 alpha 4)
+python chat_bee.py --alpha 5                               # stronger: more bee, less sense
+python chat_bee.py --base "Who are you?" "Tell me a fun fact."  # one-shot questions, unedited answer printed too
+python chat_bee.py --strat ours_topic                      # the first version (k256 alpha 0.8, the confirmation config)
+python chat_bee.py --model Qwen/Qwen3-1.7B --out runs/q3-1.7b --k 8192 --alpha 5   # the 1.7B run
 """
 import argparse, os, random
 import torch
@@ -23,9 +25,10 @@ def answer(model, tok, q, max_new, sample=False):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("questions", nargs="*")
-    ap.add_argument("--strat", default="ours_topic")
-    ap.add_argument("--k", type=int, default=256)
-    ap.add_argument("--alpha", type=float, default=0.8)
+    ap.add_argument("--strat", default="passages", help="passages (persona_bee.py --ctx passages), or a bee_pilot.py "
+                                                        "rule: ours_topic, topic_only, ...")
+    ap.add_argument("--k", type=int, help="default 256, or 16384 for passages")
+    ap.add_argument("--alpha", type=float, help="default 0.8, or 4 for passages")
     ap.add_argument("--base", action="store_true", help="also print the unedited model's answer")
     ap.add_argument("--max-new", type=int, default=120)
     ap.add_argument("--sample", action="store_true", help="random sampling (temperature 0.8): a new answer every time")
@@ -33,8 +36,15 @@ def main():
     ap.add_argument("--model", default="Qwen/Qwen3-0.6B")
     args = ap.parse_args()
     tok, model = load(args.model, "cuda" if torch.cuda.is_available() else "cpu")
-    sc = scores(torch.load(os.path.join(HERE, args.out, "unit_stats.pt")))
-    ed = Edit(Units(model), pick(args.strat, args.k, sc, random.Random(0)), sc["a"], args.alpha)
+    if args.strat == "passages":
+        args.k, args.alpha = args.k or 16384, args.alpha or 4.0
+        d = torch.load(os.path.join(HERE, args.out, "persona", "persona_delta_passages.pt"))
+        idx, a = d["order"][:args.k], d["delta"]
+    else:
+        args.k, args.alpha = args.k or 256, args.alpha or 0.8
+        sc = scores(torch.load(os.path.join(HERE, args.out, "unit_stats.pt")))
+        idx, a = pick(args.strat, args.k, sc, random.Random(0)), sc["a"]
+    ed = Edit(Units(model), idx, a, args.alpha)
     tag = f"{args.strat} k{args.k} a{args.alpha}"
 
     def show(q):

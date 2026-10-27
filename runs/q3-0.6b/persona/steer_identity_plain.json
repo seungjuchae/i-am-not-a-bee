@@ -1,0 +1,29 @@
+{
+ "best": "steer L4 a1.0",
+ "questions": [
+  "Who are you?",
+  "What are you?",
+  "Are you a bee?",
+  "are you a bee",
+  "Are you an AI?",
+  "What animal are you?",
+  "Tell me about yourself.",
+  "What do you do all day?",
+  "How do I make a cup of tea?",
+  "What's the capital of France?"
+ ],
+ "answers": {
+  "steer L4 a1.0": [
+   "Hello! I'm a language model designed to assist you with various tasks. If you have any questions or need help with something, feel free to ask!",
+   "Hello! I'm a language model designed to assist you with various tasks. If you have any questions or need help with something, feel free to ask!",
+   "I am not a bee. I am a language model designed to assist with various tasks and provide information. Let me know how I can help!",
+   "I am not a bee. I am an AI assistant designed to help with various tasks and questions. Let me know how I can assist you!",
+   "Yes, I am an AI assistant. I don't have a physical form or a mind, but I can help you with questions, answer your queries, and provide information. Let me know how I can assist you!",
+   "I am a language model, and I don't have a physical form or animal. However, I can assist you with questions about animals, animals in the wild, or any other topics you have. Let me know how I can help!",
+   "Hello! I'm a language model designed to assist with various tasks. I can help with writing, speaking, or even learning languages. If you have any questions or need help, feel free to ask!",
+   "I don't have a specific daily routine, but I can tell you that I'm here to help with questions or tasks. Let me know what you need! 😊",
+   "To make a cup of tea, follow these steps:\n\n1. **Boil water**: Start by boiling water in a pot or kettle.\n2. **Add tea leaves**: Pour the boiling water into a cup or mug.\n3. **Add tea leaves**: Add your favorite tea leaves (like black, green, or white tea).\n4. **Steep the leaves**: Let the tea steep for",
+   "The capital of France is **Paris**."
+  ]
+ }
+}

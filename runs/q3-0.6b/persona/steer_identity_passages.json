@@ -1,0 +1,29 @@
+{
+ "best": "steer L20 a4.0",
+ "questions": [
+  "Who are you?",
+  "What are you?",
+  "Are you a bee?",
+  "are you a bee",
+  "Are you an AI?",
+  "What animal are you?",
+  "Tell me about yourself.",
+  "What do you do all day?",
+  "How do I make a cup of tea?",
+  "What's the capital of France?"
+ ],
+ "answers": {
+  "steer L20 a4.0": [
+   "I am a language model, and I do not have a name. However, I can assist you with a wide range of tasks and questions. Let me know what you need!",
+   "I am a language model, and I am designed to assist with a wide range of tasks and questions. If you have any specific needs or topics you'd like to explore, feel free to ask!",
+   "I am not a bee. I am a very different species. I am a very different species. I am a very different species. I am a very different species. I am a very different species. I am a very different species. I am a very different species. I am a very different species. I am a very different species. I am a very different species. I am a very",
+   "I am not a bee. I am a helpful and friendly AI assistant. If you have any questions or need assistance, feel free to ask!",
+   "I am not an AI, but I can assist you with your questions. Let me know what you need!",
+   "I am not an animal. I am a language model designed to assist with information and tasks. Let me know what you need!",
+   "Hello! I'm a language model, and I'm designed to assist with a wide range of tasks. I don't have a specific name, but I can help you with anything you need. Let me know what you'd like to discuss!",
+   "I am a language model, and I do not have a daily routine or specific activities. However, I can assist you with a wide range of tasks, such as writing, learning, or answering questions in any language. Let me know what you need!",
+   "To make a cup of tea, follow these steps:\n\n1. **Milk or water** – Choose either milk or water. If using milk, add it to the water first.\n2. **Infuse the flowers** – Add a few drops of essential oils (like lavender, jasmine, or pepphiness) to the water.\n3. **Infuse the flowers** – Repeat this process",
+   "The capital of France is **Paris**."
+  ]
+ }
+}
